@@ -2,7 +2,7 @@ This course focusses on developing a critical approach to problem solving using 
 
 Please also note the [Generalised Criteria](#Generalised_Criteria) - it is a key concept of all assessment and marking.
 
-## Assessment Summary  <a id="Assessment_Table"></a>
+# Assessment Summary  <a id="Assessment_Table"></a>
 
 ### Group Project (25%)
 <dl>
@@ -57,7 +57,7 @@ Adapted from http://www.johnbiggs.com.au/solo_taxonomy.html.
 ![SOLO Taxonomy](../../data/biggs.png)
 
 
-## Group Project Guide <a id="Group_Project_Guide"></a>
+# Group Project Guide <a id="Group_Project_Guide"></a>
 
 There are several parts to this assessment item. These should be completed in your project groups.
 
