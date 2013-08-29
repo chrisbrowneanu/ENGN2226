@@ -9,7 +9,7 @@ Good systems engineers are continually designing, testing (analysing), re-design
 *  [Seminar Slides](../data/Seminar01.pdf)
 
 ### Concept: The Systems Lens
-*  [The Systems Lens](../../course-files/wk01-Meadows_ThinkingInSystems.pdf)
+*  [The Systems Lens](../../../ENGN2225/course-files/wk01-Meadows_ThinkingInSystems.pdf)
 
 
 
@@ -77,9 +77,9 @@ There are many measures for understanding how well your model fits your data set
 
 We'll get hands-on with models of two very different stock-and-flow models. First, a simple model of the temperature in a room, and then later using a model to forecast how to save the world from catastrophic climate change.
 
-*  [Download ISEE Player Windows](../../course-files/isee_Player_10.0.3.msi)
-*  [Download ISEE Player Mac](../../course-files/isee_Player_10.0.3.dmg)
-*  [Download Thermostat Models](../../course-files/Chapter2Thermostat.zip)
+*  [Download ISEE Player Windows](../../../ENGN2225/course-files/isee_Player_10.0.3.msi)
+*  [Download ISEE Player Mac](../../../ENGN2225/course-files/isee_Player_10.0.3.dmg)
+*  [Download Thermostat Models](../../../ENGN2225/course-files/Chapter2Thermostat.zip)
 
 
 
@@ -178,7 +178,7 @@ Below is a table of simple possible applications to get your creative juices flo
 
 
 *  [Chris' (traditional) lecture slides from 2012](../data/2012_queuing.pdf)
-*  [Blanchard & Fabrycky, Chapter 10](../../course-files/wk05_QueueTheory.pdf) *if you are more mathematically inclined..*
+*  [Blanchard & Fabrycky, Chapter 10](../../../ENGN2225/course-files/wk05_QueueTheory.pdf) *if you are more mathematically inclined..*
 
 
 ### Fundamentals: Queue Theory
@@ -247,7 +247,7 @@ We'll conduct the DoE on a variety of paper aeroplane designs, to understand wha
 Three factors combine to present a massive challenge to the ongoing survival of industry on our planet. Population is increasing, consumption is increasing, leaving technology to save us (perhaps a techno-optimistic perspective). Consider the formula: I=PAT (where: I is [Enviromental] Impact, P is Population, A for Affluence, or Consumption, and T is Technology) as a useful framework for thinking about the environmental impact of your system.
 
 *  Paul Ehrlich and John Holdren's 1971 *Science* article [Impact of Population Growth](../course-files/wk08_1971_Holdren.pdf) is still as relevant today as it was when it was written.
-*  [Barry Newell's manuscript](../course-files/wk08_Newell.pdf) covers Population, Consumption and Technology in Human Ecology terms (see pp12-18).
+*  [Barry Newell's manuscript](../../..ENGN2225/course-files/wk08_Newell.pdf) covers Population, Consumption and Technology in Human Ecology terms (see pp12-18).
 
 ### Concept: Embodied Energy
 When considering the energy impact of a product's life-cycle, the embodied energy is very important in establishing the true amount of energy consumed in production. A good place to start is the [Your Home](http://www.yourhome.gov.au/technical/index.html) technical manual collated by the Australian Government. Here a starting point for tabulating embodied energy can be found.
