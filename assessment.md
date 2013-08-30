@@ -48,8 +48,8 @@ Present a written 2-page PCD, and lead a 10-minute roundtable discussion. You ma
 
 The template can be modified as necessary. Use it as a guide.
 
-*  [PCD (Word Document)](../data/project_concept_document.doc)
-*  [PCD (PDF)](../data/project_concept_document.pdf)
+*  [PCD (Word Document)](data/project_concept_document.doc)
+*  [PCD (PDF)](data/project_concept_document.pdf)
 
 ### Feedback
 No marks are allocated to this assessment piece, but you will receive feedback to improve your final presentation.
@@ -75,9 +75,9 @@ The weekly progress document is a 'control' document that demonstrates your grou
 
 The weekly group exercise demonstrates how your group is applying the theory to your project. Use the documents below. Your group can adapt the document after consulting with your tutor.
 
-*  [Weekly Progress Report (Word Document)](../data/project_weekly_progress.doc)
-*  [Weekly Progress Report (OpenOffice Document)](../data/project_weekly_progress.odt)
-*  [Weekly Progress Report (Pages Document)](../data/project_weekly_progress.pages)
+*  [Weekly Progress Report (Word Document)](data/project_weekly_progress.doc)
+*  [Weekly Progress Report (OpenOffice Document)](data/project_weekly_progress.odt)
+*  [Weekly Progress Report (Pages Document)](data/project_weekly_progress.pages)
 
 ### Group Project Report (aka TUTORIAL HOMEWORK) and Roundtable Presentation <a id="GPR"></a>
 
@@ -107,9 +107,9 @@ Each week, apply the **Fundamental Theory** to the topic in relation to your gro
 
 You could use the following template, or evolve your own:
 
-*  [Weekly Homework template (Word Document)](../data/weekly_homework.doc)
-*  [Weekly Homework template (OpenOffice.org Document)](../data/weekly_homework.odt)
-*  [Weekly Homework template (Apple Pages Document)](../data/weekly_homework.pages)
+*  [Weekly Homework template (Word Document)](data/weekly_homework.doc)
+*  [Weekly Homework template (OpenOffice.org Document)](data/weekly_homework.odt)
+*  [Weekly Homework template (Apple Pages Document)](data/weekly_homework.pages)
 
 ### Marking Criteria
 
@@ -229,10 +229,10 @@ Submission must be by PDF, and the outline must not exceed two A4 pages. If you 
 
 Please use the Structured Abstract template. You may alter and adjust if necessary.
 
-*  [Word template](../data/structured_abstract.doc)
-*  [OpenOffice template](../data/structured_abstract.odt)
-*  [Pages template](../data/structured_abstract.pages)
-*  [LaTeX template](../data/structured_abstract.zip)
+*  [Word template](data/structured_abstract.doc)
+*  [OpenOffice template](data/structured_abstract.odt)
+*  [Pages template](data/structured_abstract.pages)
+*  [LaTeX template](data/structured_abstract.zip)
 
 #### Marking Criteria
 All criteria have equal weight.
@@ -266,10 +266,10 @@ Submission must be by PDF. The research paper content should not exceed 1,500 wo
 
 Please use the Individual Research Paper template. You may alter and adjust if necessary.
 
-*  [Word template](../data/individual_research_paper.doc)
-*  [OpenOffice template](../data/individual_research_paper.odt)
-*  [Pages template](../data/individual_research_paper.pages)
-*  [LaTeX template](../data/individual_research_paper.zip)
+*  [Word template](data/individual_research_paper.doc)
+*  [OpenOffice template](/data/individual_research_paper.odt)
+*  [Pages template](data/individual_research_paper.pages)
+*  [LaTeX template](data/individual_research_paper.zip)
 
 #### Task Requirements - Draft Paper + Poster Option
 After submitting your draft paper for peer review, you might like to submit a Poster of your research instead of a final paper. 
