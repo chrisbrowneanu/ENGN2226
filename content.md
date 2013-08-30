@@ -6,7 +6,7 @@ Note that there are no classes in Week 1.
 Good systems engineers are continually designing, testing (analysing), re-designing, re-testing until they reach perfection, which is (of course) unachievable. In this course you'll be asked to take a 'systems' view of problems, where your design is not a nice, discrete system, but has boundaries that you cannot control. 
 
 ### Seminar: Course Introduction + Interdependent Design
-*  [Seminar Slides](data/Seminar01.pdf)
+*  [Seminar Slides](../data/Seminar01.pdf)
 
 ### Concept: The Systems Lens
 *  [The Systems Lens](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk01-Meadows_ThinkingInSystems.pdf)
@@ -37,8 +37,8 @@ While you're looking at the Australian Bureau of Statistics, brush up on common 
 
 <div class="alert alert-info">
 <ul>
-<li>[Week 3 Tutorial Worksheet](data/wk03-estimationhandout.pdf)</li>
-<li>[Week 3 Tutor's Secret Plan](data/secret_plan_estimation.pdf)</li>
+<li>[Week 3 Tutorial Worksheet](../data/wk03-estimationhandout.pdf)</li>
+<li>[Week 3 Tutor's Secret Plan](../data/secret_plan_estimation.pdf)</li>
 </ul>
 </div>
 
@@ -93,7 +93,7 @@ We'll get hands-on with models of two very different stock-and-flow models. Firs
 Humans are a major factor in design. When seats don't fit, when shops don't flow, when signs don't point you in the right direction, it's as if the designer hasn't considered humans in the design.
 
 ### Workshop Notes
-[Download Chris' Secret Plan for the workshop.](data/workshop_secret_plan_hf.pdf)
+[Download Chris' Secret Plan for the workshop.](../data/workshop_secret_plan_hf.pdf)
 
 ### Concept: Anthropometrics
 Anthropometrics (human measurements) are an important consideration when designing a system or analysing a workflow. Is your design a one-size-fits-all, or do you tailor it to a particular size? Anthropometric data can give you that information.
@@ -147,8 +147,8 @@ Who determines when and to what degree things are broken? The user does, of cour
 Everyone spends time queuing, whether we like it or not. This week we take a birds-eye view of our systems, and look at the application of Queue Theory to better understand aspects of our systems.
 
 ### Workshop & Tutorial Notes
-*  [Download Chris' Secret Plan for the workshop (PDF)](data/workshop_secret_plan_qt.pdf)
-*  [Orientation notes from last week's tutorial (PDF)](data/tutorial_notes.pdf)
+*  [Download Chris' Secret Plan for the workshop (PDF)](../data/workshop_secret_plan_qt.pdf)
+*  [Orientation notes from last week's tutorial (PDF)](../data/tutorial_notes.pdf)
 
 
 ### Concept: Single- and Multi-Channel Design
@@ -177,7 +177,7 @@ Below is a table of simple possible applications to get your creative juices flo
 </table>
 
 
-*  [Chris' (traditional) lecture slides from 2012](data/2012_queuing.pdf)
+*  [Chris' (traditional) lecture slides from 2012](../data/2012_queuing.pdf)
 *  [Blanchard & Fabrycky, Chapter 10](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk05_QueueTheory.pdf) *if you are more mathematically inclined..*
 
 
