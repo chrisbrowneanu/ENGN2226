@@ -246,8 +246,8 @@ We'll conduct the DoE on a variety of paper aeroplane designs, to understand wha
 ### Concept: Population, Consumption, and Technology
 Three factors combine to present a massive challenge to the ongoing survival of industry on our planet. Population is increasing, consumption is increasing, leaving technology to save us (perhaps a techno-optimistic perspective). Consider the formula: I=PAT (where: I is [Enviromental] Impact, P is Population, A for Affluence, or Consumption, and T is Technology) as a useful framework for thinking about the environmental impact of your system.
 
-*  Paul Ehrlich and John Holdren's 1971 *Science* article [Impact of Population Growth](../course-files/wk08_1971_Holdren.pdf) is still as relevant today as it was when it was written.
-*  [Barry Newell's manuscript](../../..ENGN2225/course-files/wk08_Newell.pdf) covers Population, Consumption and Technology in Human Ecology terms (see pp12-18).
+*  Paul Ehrlich and John Holdren's 1971 *Science* article [Impact of Population Growth](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk08_1971_Holdren.pdf) is still as relevant today as it was when it was written.
+*  [Barry Newell's manuscript](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk08_Newell.pdf) covers Population, Consumption and Technology in Human Ecology terms (see pp12-18).
 
 ### Concept: Embodied Energy
 When considering the energy impact of a product's life-cycle, the embodied energy is very important in establishing the true amount of energy consumed in production. A good place to start is the [Your Home](http://www.yourhome.gov.au/technical/index.html) technical manual collated by the Australian Government. Here a starting point for tabulating embodied energy can be found.
@@ -318,7 +318,7 @@ TBA
 
 ### Tinker Seminar: Electric Bikes (TBC)
 
-TBA
+In our penultimate Seminar, we're going to see what we can really power with pedals. A group from [Engineers Without Borders](http://ewb.org.au) has prepared an activity that converts pedal power into AC, allowing us to use it as a source of energy. We'll investigate the Energy-Mass Balance and where the energy losses occur in the system.
 
 ### Side Note: Cradle to Cradle Design
 
