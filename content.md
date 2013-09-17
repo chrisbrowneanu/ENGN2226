@@ -269,12 +269,12 @@ For example, a hammer:
 <tr><td>Head</td><td>Steel</td><td>600 grams</td></tr>
 </table>
 
-<div class="thumbnail span2 pull-right">
-<a href="http://www.ifixit.com/Manifesto"><img src="http://d1luk0418egahw.cloudfront.net/static/images/manifesto/ifixit_self-repair_manifesto_900x1390.jpg" alt="" width="140px"></a></div>
-
 This should then give you a basis to explore some of the information about the materials being used. 
 
 *  [US Life-Cycle Inventory Database](http://www.nrel.gov/lci/) gives a comprehensive list of processes and flows of certain materials
+
+<div class="thumbnail span2 pull-right">
+<a href="http://www.ifixit.com/Manifesto"><img src="http://d1luk0418egahw.cloudfront.net/static/images/manifesto/ifixit_self-repair_manifesto_900x1390.jpg" alt="" width="140px"></a></div>
 
 ### Tinker Seminar: Mobile Phone Teardown
 
@@ -350,16 +350,16 @@ maintenance and disposal.* [ANAO, 2001](http://www.anao.gov.au/uploads/documents
 
 Key costs to consider in Life-Cycle Costing are (from Blanchard & Fabrycky, p583):
 
-*  Aquisition cost  *research, design, test, production, construction*
-*  Operations cost  *personnel, facilities, utilities, energy*
-*  Software cost  *operation and maintenance cost*
-*  Product distribution cost  *transportation, traffic, materials handling*
-*  Maintenance cost  *customer service, field, supplier factory maintenance*
+*  Aquisition cost - *research, design, test, production, construction*
+*  Operations cost - *personnel, facilities, utilities, energy*
+*  Software cost - *operation and maintenance cost*
+*  Product distribution cost - *transportation, traffic, materials handling*
+*  Maintenance cost - *customer service, field, supplier factory maintenance*
 *  Test and support equipment cost
-*  Training cost  *operator and maintenance cost*
+*  Training cost - *operator and maintenance cost*
 *  Technical data cost
 *  Refinement and disposal cost
-*  Supply support cost  *spares, inventory, material support*
+*  Supply support cost - *spares, inventory, material support*
 
 It's worthwhile establishing which of these costs lie within and outside of the boundaries of your analysis.
 
