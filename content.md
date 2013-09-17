@@ -11,8 +11,6 @@ Good systems engineers are continually designing, testing (analysing), re-design
 ### Concept: The Systems Lens
 *  [The Systems Lens](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk01-Meadows_ThinkingInSystems.pdf)
 
-
-
 ## Wk3: Informed Estimation
 Information about your system is not always nicely collated. Sometimes you have access to information, sometimes you have access to 'proxy' indicators, and other times you have to make an informed estimation. The focus of this topic is to develop a good working understanding of how you can make good estimations in the absence of data.
 
@@ -43,8 +41,6 @@ While you're looking at the Australian Bureau of Statistics, brush up on common 
 </div>
 
 Please note that the Thursday Seminar is not being held in Week 3. Newcomers please come to the Week 3 Workshop slot on Monday instead, and use the Seminar slot on Thursday to work on your group project.
-
-
 
 ## Wk4: Dynamical Systems
 Week 4 is not a heavy content week, as the tutorials are concentrating on the PCD, and everyone is gearing up for the student facilitations in Week 5. That said, take notice of this topic, as it might be useful for your portfolio.
@@ -234,8 +230,6 @@ Ever wondered what makes the best paper aeroplanes? Is it the materials, the des
 
 We'll conduct the DoE on a variety of paper aeroplane designs, to understand what parameters could be optimised for the best design.
 
-
-
 ## Wk8: Life-Cycle Audit
 
 <div class="thumbnail span4 pull-right">
@@ -281,13 +275,11 @@ This should then give you a basis to explore some of the information about the m
 
 *  [US Life-Cycle Inventory Database](http://www.nrel.gov/lci/) gives a comprehensive list of processes and flows of certain materials
 
-
 ### Tinker Seminar: Mobile Phone Teardown
-
 
 This week we're going to document (photograph) the process of taking apart an old mobile phone. [MobileMuster](http://www.mobilemuster.com.au/) has kindly donated mobile phones, but we can try to revive an old phone you have lying around too. 
 
-Note that if you'd like to fix the screen of a phone that you have broken, talk to Chris, buy the parts, and we can see what we can do :)
+Note that if you'd like to fix the screen of a phone that you have broken, talk to Chris, buy the parts, and we can see what we can do :) 
 
 A great resource for fixing modern electronics is [iFixit](http://ifixit.org).
 
@@ -304,23 +296,37 @@ Annie Leonard has become somewhat of a folk-hero with her informed but personal 
       <img src="http://3.bp.blogspot.com/-xgG0-KGx6Tw/UKth8KZ7wiI/AAAAAAAAAJk/AhbxLYYxedw/s1600/ei.jpg" alt=""><p>**Energy Loss:** Where does all the energy in your system go? <small>Image: [tueinmotion](http://tueinmotion.blogspot.com.au/)</small></p>
 </div>
 
-### Concept: Energy and Materials Planning
+### Concept: Energy-Mass Balance Audit
 
-TBA
+An energy-mass balance audit is a method of understanding energy and mass flows through a system.
 
-### Concept: End-of-Life Issues
+*An EMB is a model, from an energy perspective, of how a process or system works. It helps to understand the energy flows, mass flows, and other factors influencing energy efficiency, to determine the efficiencies of processes and equipment, and to evaluate the effects of external factors.* - [Energy Efficiency Opportunities, 2013](http://energyefficiencyopportunities.gov.au/guides/embs/)
 
-TBA
+There are two particular examples of Energy Mass-Balance Audits relevant to your projects:
 
-### Fundamentals: Energy-Mass Balance Audit
+*  [Commercial Buildings](http://eeo.govspace.gov.au/files/2012/10/EMB-Commercial.pdf)
+*  [Transport](http://eeo.govspace.gov.au/files/2012/10/EMB-Transport.pdf)
+*  ([All Energy Efficiency Opportunities resources](http://energyefficiencyopportunities.gov.au/guides/embs/))
 
-TBA
+You should be able to identify key areas of energy/mass flows in order to complete the Fundamentals below.
+
+### Fundamentals: Energy and Mass Flow Mapping
+You should be able to present a coherent energy and mass flow diagram, as demonstrated on page 18 of the [Commerial Buildings guide](http://eeo.govspace.gov.au/files/2012/10/EMB-Commercial.pdf). Please note that HVAC groups should especially deliver something very specific to your building, and not this generic structure.
+
+### Fundamentals: Sankey Diagrams
+You should be able to complete a Sankey diagram for your entire system, or at least an aspect of your system. An example of this is shown on Page 26 of the [Transport guide](http://eeo.govspace.gov.au/files/2012/10/EMB-Transport.pdf), but there are plenty of great online resources.
+
+If you're having trouble drawing these diagrams, there are some specific software packages listed at [www.sankey-diagrams.com](http://www.sankey-diagrams.com/sankey-diagram-software/). Personally, I use [Omnigraffle](http://www.omnigroup.com/products/omnigraffle/), which is a paid Mac app but there is a free trial.
 
 ### Tinker Seminar: Electric Bikes (TBC)
-
 In our penultimate Seminar, we're going to see what we can really power with pedals. A group from [Engineers Without Borders](http://ewb.org.au) has prepared an activity that converts pedal power into AC, allowing us to use it as a source of energy. We'll investigate the Energy-Mass Balance and where the energy losses occur in the system.
 
-### Side Note: Cradle to Cradle Design
+### Side Note 1: Energy Savings Measurement Guide
+While you're looking at the Energy-Mass Balance material on the [Energy Efficiency Opportunities](http://energyefficiencyopportunities.gov.au/) website, you should check out their [Energy Savings Measurement Guide](http://energyefficiencyopportunities.gov.au/guides/energy-savings-measurement/), which explores opportunities to improve energy efficiency in systems. [The Natural Edge Project](http://www.naturaledgeproject.net/whole_system_design.aspx)'s Whole System Design also highlights some worked examples of this style of system analysis.
+
+### Side Note 2: Cradle to Cradle Design
+
+
 
 <iframe class="pull-right span4 thumbnail" src="http://embed.ted.com/talks/william_mcdonough_on_cradle_to_cradle_design.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
@@ -351,3 +357,6 @@ TBA
 TBA
 
 ### Tinker Seminar: Business Case (TBC)
+
+
+
