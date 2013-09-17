@@ -51,7 +51,13 @@ Seminars are hands-on and will not be recorded, but any relevant notes will be m
 
 ## Learning Outcomes 
 
-To be confirmed :)
+1.  Provide all students with a strong basis in analysis in systems engineering techniques.
+1.  Provide an indication of how these concepts can be applied to a key systems analysis problems.
+  *  Model identification
+  *  Predicting and planning for system response
+  *  Making decisions based on uncertainty
+1. Ensure all students are are competent in the use of quantitative methods to inform qualitative analysis.
+
   
 ## Group Work & Peer Evaluation 
 
