@@ -225,6 +225,9 @@ The fundamental theory this week (DoE) gives us a methodology to navigate concep
 *  [http://en.wikipedia.org/wiki/Design_of_experiments](http://en.wikipedia.org/wiki/Design_of_experiments)
 *  [Design of Experiments Overview](http://asq.org/learn-about-quality/data-collection-analysis-tools/overview/design-of-experiments.html) (with links to tutorials) on ASQ's website.
 
+### Side Note: MTBF & MTBM
+When considering reliability XXX
+
 ### Tinker Seminar: Paper Aircraft 
 Ever wondered what makes the best paper aeroplanes? Is it the materials, the design, or how well the folds are made? 
 
@@ -286,7 +289,7 @@ A great resource for fixing modern electronics is [iFixit](http://ifixit.org).
 
 ### Side Note: The Story of Electronics
 
-<iframe class="pull-right span2 thumbnail" src="http://www.storyofstuff.org/movies/embed_SoE.html" style="border:0px;" name="SoE_embed" scrolling="no" frameborder="0" align="top" > </iframe>
+<iframe class="thumbnail span4 pull-right" width="300" height="225" src="//www.youtube.com/embed/sW_7i6T_H78" frameborder="0" allowfullscreen></iframe>
 
 Annie Leonard has become somewhat of a folk-hero with her informed but personal stories of (un)sustainable consumption at [The Story of Stuff Project](http://www.storyofstuff.org/). Check out the Story of Electronics (and then make sure you come and fix your old phone :)
 
@@ -326,34 +329,63 @@ While you're looking at the Energy-Mass Balance material on the [Energy Efficien
 
 ### Side Note 2: Cradle to Cradle Design
 
-<iframe class="pull-right span4 thumbnail" src="http://embed.ted.com/talks/william_mcdonough_on_cradle_to_cradle_design.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe class="thumbnail span4 pull-right" src="http://embed.ted.com/talks/william_mcdonough_on_cradle_to_cradle_design.html" width="300" height="225" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 What about designing a machine that can convert carbon dioxide into oxygen, stores large amounts of carbon, provide shade and a home to animals, releases nutrients into the ground... You get the idea. Check out William McDonough's video on Cradle-to-Cradle design, and reframe the way you think about waste.
 
 ## Wk10: Economic Analysis
 
 <div class="thumbnail span4 pull-right">
-      <img src="http://pmstudy.com/blog/wp-content/uploads/2012/11/Payback-Period-300x225.jpg
-" alt=""><p>**Pay-back:** Establishing the trade-off between time and money.<small>Image: [PMStudy](http://pmstudy.com/blog/?p=312)</small></p>
+      <img src="http://pmstudy.com/blog/wp-content/uploads/2012/11/Payback-Period-300x225.jpg" alt=""><p>**Pay-back:** Establishing the trade-off between time and money.<small>Image: [PMStudy](http://pmstudy.com/blog/?p=312)</small></p>
 </div>
 
-### Concept: Capital and Non-Capital Investment
+At the end of the day, the most important analytical technique to get a project off the ground is likely to be the economic analysis. Can the system pay for itself? Can it be profitable? Once you've established the feasibility of the other aspects of your design, now turn your mind to selling it!
 
-TBA
 
-### Concept: Limits to Growth and the Rebound Effect
+### Concept: Life-Cycle Costing
 
-TBA
+Capital and non-capital investment--also known as fixed and variable costs--these can provide an understanding of the cost of your system over its entire lifecycle.
 
-### Approach: System Dynamics Modelling
+*Australian Standard AS/ NZS 4536:1999 defines life-cycle cost as the sum of acquisition cost and
+ownership cost of an asset over its life cycle from design stage, manufacturing, usage,
+maintenance and disposal.* [ANAO, 2001](http://www.anao.gov.au/uploads/documents/Life_Cycle_Costing.pdf)
 
-TBA
+Key costs to consider in Life-Cycle Costing are (from Blanchard & Fabrycky, p583):
+
+*  Aquisition cost  *research, design, test, production, construction*
+*  Operations cost  *personnel, facilities, utilities, energy*
+*  Software cost  *operation and maintenance cost*
+*  Product distribution cost  *transportation, traffic, materials handling*
+*  Maintenance cost  *customer service, field, supplier factory maintenance*
+*  Test and support equipment cost
+*  Training cost  *operator and maintenance cost*
+*  Technical data cost
+*  Refinement and disposal cost
+*  Supply support cost  *spares, inventory, material support*
+
+It's worthwhile establishing which of these costs lie within and outside of the boundaries of your analysis.
+
+The Office of National Assessments has produced a guide for undertaking a Life-Cycle Costing. Use this as a key resource for undertaking your Economic Analysis.
+
+*  [Life-Cycle Costing, Better Practice Guide. ANAO, 2001.](http://www.anao.gov.au/uploads/documents/Life_Cycle_Costing.pdf)
+
+### Concept: The Rebound Effect
+
+Basic economics dictates when a resource is more abundant, it will become cheaper. Think of the [cost/MB](http://www.mkomo.com/cost-per-gigabyte) of a hard drive. When it comes to natural resources - say for the production of energy - where there are multiple opportunities for increased efficiency and production, then the cheaper, more efficient production of a resource may well lead to an increased consumption. 
+
+An example relevant to group projects could be the investment in LED lighting, leading to the increased use of lights as people's behaviour changes. A good place to start in this area is [Alcott's article on the Jevon's paradox](http://www.blakealcott.org/pdf/sdarticle.pdf).
 
 ### Fundamentals: Pay-back Period
 
-TBA
+There are several classic examples to make economic arguments for one system over another, especially when weighing up options at the acquisition stage. An example you might be well aware of is the decision made when buying a phone:
 
-### Tinker Seminar: Business Case (TBC)
+* buy a phone outright, with a lower monthly fee 
+* buy a phone on contract, with a higher monthly fee
 
+When plotted on an axis over time, there will be a point at which the two options cross - this is the payback period. In a system, this becomes more complicated when you consider all life-cycle costs, like those outlined in the Life-Cycle Costs topic.
 
+A good guide for calculating the payback period is in the Victorian Government's EREP Toolkit: [Calculating payback periods](http://www.epa.vic.gov.au/~/media/publications/1210.pdf)
 
+### Tinker Seminar: Business Case
+
+We'll compare some economic models and come up with a business decision.
