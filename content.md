@@ -77,8 +77,6 @@ We'll get hands-on with models of two very different stock-and-flow models. Firs
 *  [Download ISEE Player Mac](http://eng.anu.edu.au/courses/ENGN2225/course-files/isee_Player_10.0.3.dmg)
 *  [Download Thermostat Models](http://eng.anu.edu.au/courses/ENGN2225/course-files/Chapter2Thermostat.zip)
 
-
-
 ## Wk5: Human Factors
 <div class="thumbnail span4 pull-right">
       <img src="http://www.k-state.edu/udlearnsite/img/L4-bodymeasurementsgif.gif" alt="">
