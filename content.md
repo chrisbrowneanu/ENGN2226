@@ -326,12 +326,9 @@ While you're looking at the Energy-Mass Balance material on the [Energy Efficien
 
 ### Side Note 2: Cradle to Cradle Design
 
-
-
 <iframe class="pull-right span4 thumbnail" src="http://embed.ted.com/talks/william_mcdonough_on_cradle_to_cradle_design.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 What about designing a machine that can convert carbon dioxide into oxygen, stores large amounts of carbon, provide shade and a home to animals, releases nutrients into the ground... You get the idea. Check out William McDonough's video on Cradle-to-Cradle design, and reframe the way you think about waste.
-
 
 ## Wk10: Economic Analysis
 
