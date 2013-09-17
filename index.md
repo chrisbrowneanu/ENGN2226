@@ -8,7 +8,7 @@ Aspects in ENGN2226 follows on from ENGN2225, but students can seek permission t
 
 The course uses multiple learning methods to develop students' ability to meet the Learning Outcomes, and Engineers Australia graduate competencies. These are detailed on the course's page on [StudyAt](http://studyat.anu.edu.au/courses/ENGN2226;details.html).
 
-**Variation to StudyAt Entry** Please note that the indicative assessment is different to that confirmed in the [Assessment](#Assessment) section, and that there **is NO textbook** for this course (or for ENGN2226). All extra resources will be available on this site.
+**Variation to StudyAt Entry** Please note that the indicative assessment is different to that confirmed in the [Assessment](#Assessment) section, and that there **is NO textbook** for this course (or for ENGN2225). All extra resources will be available on this site.
 
 
 ## Indicative Assessment 
