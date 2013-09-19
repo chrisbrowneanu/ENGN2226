@@ -314,10 +314,10 @@ Read the author's paper, and complete a short questionnaire to assist the author
 You will be awarded a mark for each of the two peer reviews you complete. You will receive a mark on how useful the peer review was for the author on the following scale:
 
 *  2.5 marks - peer review was really useful in improving or confirming author assumptions and approach to the paper, and provided constructive encouragement and avenues (i.e. further references) to thoroughly enhance the paper.
-*  2.0 marks - peer review comments on useful parts of the paper
-*  1.5
-*  1.0
-*  0.5
+*  2.0 marks - peer review comments are useful for improving the whole paper
+*  1.5 - peer review comments somewhat useful for improving an aspect of the paper
+*  1.0 - peer review comments probably confirm something the author already knows
+*  0.5 - not very useful or constructive to the author
 *  0.0 - epic fail, or nil submission.
 
 ### Submission
