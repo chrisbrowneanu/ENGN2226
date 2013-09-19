@@ -130,8 +130,9 @@ Each have the common criteria:
 ### Submission
 Weekly Homework/Progress Report submission should be made weekly in your tutorial group to your tutor. Submit at the beginning of the tutorial, and your tutor will meet with you in the second hour. Note that this exercise doubles as preparation for your tutorial, and should be completed as a group. A hard copy is required of both the Progress Document and the Weekly Exercise. Submissions should include previous weeks' submissions (ie. it should build up each week).  
 
-
 # Jigsaw Tasks
+
+The [Jigsaw Classroom explained](http://www.youtube.com/watch?v=ZAjjC8YwCbc) in a video (11 min).
 
 ## Tutorial Facilitation Guide <a id="Tutorial_Facilitation_Guide"></a>
 
@@ -335,7 +336,12 @@ The Core Competencies Portfolio should:
 
 *  have a common technology theme<br />*You should not choose a theme that is a copy of your group project. You could, however, laterally explore technologies to inform your project if you wish. You can discuss this with Chris in your Week 5 meeting if you are unsure. You can, of course, choose a technology not related to your project. Most importantly, you should choose a technology that interests you.*
 *  contain insightful analysis that demonstrates your understanding of the course content<br />*You should choose between 4-8 analysis techniques from the course and apply the theory to your technology. You must choose topics that you didn't facilitate or write your research paper on.*
-*  be a professional representation (if you're writing a report, it should be of 10-15 pages in length, developed over the semester). However, if you would like to present your portfolio in an alternative format, please raise this with Chris in the Week 5 meeting.
+*  be a professional representation (if you're writing a report, it should be of **12-15 pages** in length, developed over the semester). However, if you would like to present your portfolio in an alternative format, please raise this with Chris in the Week 5 meeting.
+
+*Note: although there is no strict format for the Portfolio, you might consider it as:*
+
+*  *an in-depth analysis or feasibility study of one peice of technology, and how the analysis has influenced the design.*
+*  *a comparison of two alternative techologies, with critique of the design aspects based on the analysis.*
 
 ### Marking Criteria
 This is a significant part of the course mark. To benefit different learning styles and differentiate understanding of course concepts, there are three aspects to this submission:
