@@ -272,6 +272,7 @@ This should then give you a basis to explore some of the information about the m
 ## Wk9: Energy-Mass Balance
 
 <div class="thumbnail span3 pull-right">
+**In this topic...**
 <ul><li>Concept: EMB Audit</li>
 <li>Fundamentals: E/M Mapping</li>
 <li>Fundamentals: Sankey Diagrams</li></ul>
@@ -280,7 +281,7 @@ This should then give you a basis to explore some of the information about the m
 <li>[Workshop Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk9-energy-mass-balance)</li>
 <li>[Tutorial Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk9-energy-mass-balance)</li>
 <li>[Seminar: Pedal Power](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk9-energy-mass-balance)</li>
-<li>[Side Note 1: Energy Savings Guide](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk9-energy-mass-balance)</li>
+<li>[Side Note 1: Energy Savings](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk9-energy-mass-balance)</li>
 <li>[Side Note 2: Cradle-to-Cradle](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk9-energy-mass-balance)</li>
 </ul>
 <img src="http://3.bp.blogspot.com/-xgG0-KGx6Tw/UKth8KZ7wiI/AAAAAAAAAJk/AhbxLYYxedw/s1600/ei.jpg" alt=""><p>**Energy Loss:** Where does all the energy in your system go? <small>Image: [tueinmotion](http://tueinmotion.blogspot.com.au/)</small></p>
@@ -311,9 +312,11 @@ If you're having trouble drawing these diagrams, there are some specific softwar
 ## Wk10: Economic Analysis
 
 <div class="thumbnail span3 pull-right">
+**In this topic...**
 <ul><li>Concept: Life-Cycle Costing</li>
 <li>Concept: Rebound Effect</li>
 <li>Fundamentals: Payback Period</li>
+</ul>
 **Related Resources**
 <ul>
 <li>[Workshop Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk10-economic-analysis)</li>
@@ -334,7 +337,7 @@ Capital and non-capital investment--also known as fixed and variable costs--thes
 ownership cost of an asset over its life cycle from design stage, manufacturing, usage,
 maintenance and disposal.* [ANAO, 2001](http://www.anao.gov.au/uploads/documents/Life_Cycle_Costing.pdf)
 
-Key costs to consider in Life-Cycle Costing are (from Blanchard & Fabrycky, p583):
+Key costs to consider in Life-Cycle Costing are ([from Blanchard & Fabrycky, p583](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk10_life-cycle-cost.pdf)):
 
 *  Aquisition cost - *research, design, test, production, construction*
 *  Operations cost - *personnel, facilities, utilities, energy*
