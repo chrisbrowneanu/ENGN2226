@@ -22,7 +22,6 @@ These are notes and side notes from the workshops, seminars and course in genera
 
 Please note that the Thursday Seminar is not being held in Week 3. Newcomers please come to the Week 3 Workshop slot on Monday instead, and use the Seminar slot on Thursday to work on your group project.
 
-
 ## Wk4: Dynamical Systems
 
 ### Tutorial
@@ -102,7 +101,11 @@ Coming...
 
 ### Workshop Notes
 
+*  [Chris' 'secret' plan for the MFD workshop](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/workshop_secret_plan-mfd.pdf)
+
 ### Tutorial Notes
+
+*  [Tutorial Notes on Multifactorial Design](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/tutorial_notes-mfd.pdf)
 
 ### Tinker Seminar: Paper Aircraft 
 Ever wondered what makes the best paper aeroplanes? Is it the materials, the design, or how well the folds are made? 
@@ -125,7 +128,11 @@ When considering reliability XXX
 
 ### Workshop Notes
 
+*  [Chris' 'secret' plan for the LCA workshop](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/workshop_secret_plan-lca.pdf)
+
 ### Tutorial Notes
+
+*  [Tutorial Notes on Life-Cycle Assessment](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/tutorial_notes-lca.pdf)
 
 ### Tinker Seminar: Mobile Phone Teardown
 
@@ -134,6 +141,10 @@ This week we're going to document (photograph) the process of taking apart an ol
 Note that if you'd like to fix the screen of a phone that you have broken, talk to Chris, buy the parts, and we can see what we can do :) 
 
 A great resource for fixing modern electronics is [iFixit](http://ifixit.org).
+
+Further resources:
+
+*  [Boks, C.; Huisman, J.; Stevels, A., "Combining economical and environmental considerations in cellular phone design," Electronics and the Environment, 2000. ISEE 2000. Proceedings of the 2000 IEEE International Symposium](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=857620&isnumber=18632)
 
 
 ### Side Note: The Story of Electronics
@@ -144,8 +155,21 @@ Annie Leonard has become somewhat of a folk-hero with her informed but personal 
 
 ## Wk9: Energy-Mass Balance
 ### Workshop Notes
+We're going to look at bottled water, and its alternatives.
+
+*  [Chris' Workshop Slides](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/workshop-emb.pdf)
+*  [Chris' Workshop Secret Plan](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/workshop_secret_plan-emb.pdf)
+
+Some extra resources that might be useful:
+
+*  [Bottled Water: Pouring Resources Down the Drain, Arnold (nd)](http://eng.anu.edu.au/courses/ENGN2226/current/data/Arnold.pdf)
+*  [Bottled Water: Understanding a Social Phenomena, Ferrier (2001)](http://eng.anu.edu.au/courses/ENGN2226/current/data/emb_Ferrier_2001)
+*  [Bottled and Sold, Gleick (2010)](http://eng.anu.edu.au/courses/ENGN2225/course-files/ENGN2226/emb_Gleick_2010.pdf)
+*  [Energy implications of bottled water, Gleick & Cooley (2009)](http://eng.anu.edu.au/courses/ENGN2226/current/data/emb_Gleick_and_Cooley_2009.pdf)
+*  [The Story of Bottled Water (video)](http://www.youtube.com/watch?v=Se12y9hSOM0) ~8 minutes
 
 ### Tutorial Notes
+
 
 ### Tinker Seminar: Pedal Power
 In our penultimate Seminar, we're going to see what we can really power with pedals. A group from [Engineers Without Borders](http://ewb.org.au) has prepared an activity that converts pedal power into AC, allowing us to use it as a source of energy. We'll investigate the Energy-Mass Balance and where the energy losses occur in the system.
