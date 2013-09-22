@@ -1,17 +1,35 @@
 # Course Content
 
+On this page are the topics covered in the course. Please also explore the '[Notes](notes)' page for supplementary material that might be of interest, or further applicable to your project, including notes from workshops, seminars and tutorials.
+
 Note that there are no classes in Week 1.
 
 ## Wk2: Design to Analysis
+
+<div class="thumbnail span3 pull-right grey">
+**In this topic...**
+<ul><li>The Systems Lens</li></ul>
+**Related Resources**
+<ul><li>[Seminar Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk2-design-to-analysis)</li></ul>
+</div>
+
 Good systems engineers are continually designing, testing (analysing), re-designing, re-testing until they reach perfection, which is (of course) unachievable. In this course you'll be asked to take a 'systems' view of problems, where your design is not a nice, discrete system, but has boundaries that you cannot control. 
 
-### Seminar: Course Introduction + Interdependent Design
-*  [Seminar Slides](../data/Seminar01.pdf)
-
 ### Concept: The Systems Lens
-*  [The Systems Lens](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk01-Meadows_ThinkingInSystems.pdf)
+*  [The Systems Lens](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk01-Meadows_ThinkingInSystems.pdf) (PDF)
 
 ## Wk3: Informed Estimation
+
+<div class="thumbnail span3 pull-right grey">
+**In this topic...**
+<ul><li>Concept: BOTE Estimation</li>
+<li>Concept: Data Collection</li>
+<li>Fundamentals: Error</li>
+</ul>
+**Related Resources**
+<ul><li>[Tutorial on Estimation](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk3-informed-estimation)</li></ul>
+</div>
+
 Information about your system is not always nicely collated. Sometimes you have access to information, sometimes you have access to 'proxy' indicators, and other times you have to make an informed estimation. The focus of this topic is to develop a good working understanding of how you can make good estimations in the absence of data.
 
 ### Concept: Back of the Envelope Estimation
@@ -27,22 +45,24 @@ Back of the envelope estimation is an important skill - one that Manhattan Proje
 
 A good place to start finding data to verify estimation of Fermi problems is the [Australian Bureau of Statistics](http://abs.gov.au/). For example, does the [Population Pyramid](http://www.abs.gov.au/websitedbs/d3310114.nsf/home/Population%20Pyramid%20-%20Australia) help you understand how many families own pianos? Or would the [Key Economic Indicators](http://abs.gov.au/AUSSTATS/abs@.nsf/mf/1345.0?opendocument?opendocument#from-banner=LN) offer a better understanding?
 
+See also: [Google's Public Data Explorer](https://www.google.com.au/publicdata/directory)
+
 ### Fundamentals: Error
 
 While you're looking at the Australian Bureau of Statistics, brush up on common errors in data collection on the ABS's [types of error](http://www.abs.gov.au/websitedbs/a3121120.nsf/home/statistical+language+-+types+of+error). Pay particular notice to the green box at the bottom of the page describing non-sampling errors. If you're collecting data about your system, how would you make sure that you avoid these types of error?
 
-### Tutorial: How Many X in Y?
+## Wk4: Dynamical Systems
 
-<div class="alert alert-info">
-<ul>
-<li>[Week 3 Tutorial Worksheet](../data/wk03-estimationhandout.pdf)</li>
-<li>[Week 3 Tutor's Secret Plan](../data/secret_plan_estimation.pdf)</li>
-</ul>
+<div class="thumbnail span3 pull-right grey">
+**In this topic...**
+<ul><li>Concept: Reference Modes</li>
+<li>Concept: Diffusion of Innovations</li>
+<li>Fundamentals: Data fitting</li></ul>
+**Related Resources**
+<ul><li>[Seminar on Dynamic Systems](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk4-dynamical-systems)</li>
+<li>[Approach: Systems Thinking](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk4-dynamical-systems)</li></ul>
 </div>
 
-Please note that the Thursday Seminar is not being held in Week 3. Newcomers please come to the Week 3 Workshop slot on Monday instead, and use the Seminar slot on Thursday to work on your group project.
-
-## Wk4: Dynamical Systems
 Week 4 is not a heavy content week, as the tutorials are concentrating on the PCD, and everyone is gearing up for the student facilitations in Week 5. That said, take notice of this topic, as it might be useful for your portfolio.
 
 Systems change over time, and understanding the dynamical behaviour is important to being able to make good decisions about your system. A reference mode provides an indication of past behaviour over time, and is invaluable in attempting to forecast future behaviour.
@@ -55,39 +75,31 @@ The Diffusion of Innovations is a phenomena seen repeatedly in society. Also kno
 
 *  The [Wikipedia page on System Dynamics](http://en.wikipedia.org/wiki/System_dynamics) has a good example model of technology adoption, explaining S-Shaped growth
 
-
-### Approach: Systems Thinking
-There are a number great resources for understanding systems using systems thinking. We covered positive and negative feedback in ENGN2225, and in ENGN2226 we'll look at Stock & Flow modelling to understand these types of models in the seminar (this also might help you think about Queue Theory).
-
-*  [Beginner Modelling Exercises](http://clexchange.org/ftp/documents/Roadmaps/RM2/D-4347-7.pdf)
-*  [Graphical Integration Exercises](http://clexchange.org/ftp/documents/Roadmaps/RM2/D-4547-1.pdf)
-
 ### Fundamentals: Data fitting
 There are many measures for understanding how well your model fits your data set. A good method is to use Total of Least Squares to approximate how well the data fits your simulation.
 
 *  [A mathematical approach to the least squares problem](https://www.khanacademy.org/math/linear-algebra/alternate_bases/orthogonal_projections/v/linear-algebra--least-squares-approximation)
 *  *Note, we'll sum the residuals at each point to measure how well our model conforms to the reference mode.*
 
-### Seminar: Using Insightful Models - Home Insulation modelling and C-ROADS
-*SMART+ Goal for this session: To play with dynamical models to match a reference mode, and understand the benefits and limitations of simulation.*
-
-We'll get hands-on with models of two very different stock-and-flow models. First, a simple model of the temperature in a room, and then later using a model to forecast how to save the world from catastrophic climate change.
-
-*  [Download ISEE Player Windows](http://eng.anu.edu.au/courses/ENGN2225/course-files/isee_Player_10.0.3.msi)
-*  [Download ISEE Player Mac](http://eng.anu.edu.au/courses/ENGN2225/course-files/isee_Player_10.0.3.dmg)
-*  [Download Thermostat Models](http://eng.anu.edu.au/courses/ENGN2225/course-files/Chapter2Thermostat.zip)
-
 ## Wk5: Human Factors
-<div class="thumbnail span4 pull-right">
-      <img src="http://www.k-state.edu/udlearnsite/img/L4-bodymeasurementsgif.gif" alt="">
-      <p>**Human Factors:** Knowing what range of sizes to design parts of your system is the first step in our analysis
-      <small>Image: [KSU](http://www.k-state.edu/udlearnsite/img/L4-bodymeasurementsgif.gif)</small></p>
-    </div>
+<div class="thumbnail span3 pull-right grey">
+**In this topic...**
+<ul><li>Concept: Anthropometrics</li>
+<li>Concept: Ergonomics</li>
+<li>Fundamentals: Dispersion</li></ul>
+**Related Resources**
+<ul><li>[Workshop Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk5-human-factors)</li>
+<li>[Seminar: Keyboards](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk5-human-factors)</li>
+<li>[Bonus Concept: Comfort](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk5-human-factors)</li>
+<li>[Side Note: Broken](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk5-human-factors)</li>
+</ul>
+
+<img src="http://www.k-state.edu/udlearnsite/img/L4-bodymeasurementsgif.gif" alt="">
+<p>**Human Factors:** Knowing what range of sizes to design parts of your system is the first step in our analysis
+<small>Image: [KSU](http://www.k-state.edu/udlearnsite/img/L4-bodymeasurementsgif.gif)</small></p>
+</div>
 
 Humans are a major factor in design. When seats don't fit, when shops don't flow, when signs don't point you in the right direction, it's as if the designer hasn't considered humans in the design.
-
-### Workshop Notes
-[Download Chris' Secret Plan for the workshop.](../data/workshop_secret_plan_hf.pdf)
 
 ### Concept: Anthropometrics
 Anthropometrics (human measurements) are an important consideration when designing a system or analysing a workflow. Is your design a one-size-fits-all, or do you tailor it to a particular size? Anthropometric data can give you that information.
@@ -103,47 +115,30 @@ An ergonomic design will not only make your users happier, but can make big diff
 *  Apple Computer's [Human Interface Principles](http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/Principles/Principles.html#//apple_ref/doc/uid/TP40006556-CH5-SW1)
 *  ABS's [Work-Related Injuries](http://www.abs.gov.au/AUSSTATS/abs@.nsf/Latestproducts/6324.0Main%20Features32009-10?opendocument&tabname=Summary&prodno=6324.0&issue=2009-10&num=&view=) survey - *details the cost of work-related injuries on industry*
 
-### Bonus Concept: Workplace Comfort
-Some projects might not have a strong anthropometric or ergonomic component (or at least, not strong enough to write a research paper on). If this is the case, then you might want to explore other human-related measures, such as lighting or heating levels.
-
-*  [WorkSafe ACT's Thermal Comfort Guidelines](http://www.worksafe.act.gov.au/page/view/1227)
-
 ### Fundamentals: Dispersion in population data
 When looking through anthropometric data, you'll come across some statistical concepts that you should be across when considering human factors in your design. The key concept is dispersion, mainly standard deviation.
 
 [Have a look through Standard Deviation on the Khan Academy](https://www.khanacademy.org/math/probability/descriptive-statistics/variance_std_deviation/e/exploring_standard_deviation_1). *There are a number of videos and exercises that you can engage with. If you present any anthropometric data in your paper or tutorial, you should address these concepts.*
 
-### Tinker Seminar: Computer Keyboards are Slow
-*SMART+ Goal for this session: To use population data and a statistical process to analyse a variety of computer keyboard layouts.*
-
-How fast can you type? A computer keyboard is a fairly universal design solution for inputting text into a computer, but has it been designed with humans in mind? We'll test the traditional QWERTY layout against alternative layouts.
-
-### Side note: Broken
-<iframe class="thumbnail span4 pull-right" src="http://player.vimeo.com/video/4246943?title=0&amp;byline=0&amp;portrait=0" width="300" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-Who determines when and to what degree things are broken? The user does, of course. Seth Godin gives a great overview of how many systems are broken and what we should do to fix them in seven categories:
-
-1. Not my job
-1. Selfish jerks
-1. The world changed
-1. I don't know
-1. I'm not a fish
-1. Contradictions
-1. Broken on purpose
-
-
-
 ## Wk6: Queue Theory
-<div class="thumbnail span4 pull-right">
-      <img src="http://www.abc.net.au/radionational/image/4543746-3x2-700x467.jpg" alt=""><p>**Queue Theory:** Queues can make or break an experience in a system. <small>Image: [ABC](http://www.abc.net.au/radionational/programs/bydesign/queing/4534256)</small></p>
+<div class="thumbnail span3 pull-right grey">
+**In this topic...**
+<ul><li>Concept: Channels</li>
+<li>Fundamentals: Queue Theory</li>
+<li>Discussion: Queuing</li></ul>
+**Related Resources**
+<ul>
+<li>[Tutorial Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk6-queue-theory)</li>
+<li>[Workshop Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk6-queue-theory)</li>
+<li>[Seminar: Beer Game](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk6-queue-theory)</li>
+<li>[Side Note 1: PERT Charts](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk6-queue-theory)</li>
+<li>[Side Note 2: Just it Time](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk6-queue-theory)</li>
+</ul>
+
+<img src="http://www.abc.net.au/radionational/image/4543746-3x2-700x467.jpg" alt=""><p>**Queue Theory:** Queues can make or break an experience in a system. <small>Image: [ABC](http://www.abc.net.au/radionational/programs/bydesign/queing/4534256)</small></p>
 </div>
 
 Everyone spends time queuing, whether we like it or not. This week we take a birds-eye view of our systems, and look at the application of Queue Theory to better understand aspects of our systems.
-
-### Workshop & Tutorial Notes
-*  [Download Chris' Secret Plan for the workshop (PDF)](../data/workshop_secret_plan_qt.pdf)
-*  [Orientation notes from last week's tutorial (PDF)](../data/tutorial_notes.pdf)
-
 
 ### Concept: Single- and Multi-Channel Design
 We are concerned with how queue theory will influence our design. The best practical resource I can find is from iSixSigma:
@@ -157,7 +152,10 @@ To this end, you should think of your system in terms of:
 *  the associated cost (the 'cost' of employing service)
 *  and extend it to the human factors (how long do you like to wait?)
 
-You could use Single- and Multi-Channel queue designs to compare approaches in your system.
+You could use Single- and Multi-Channel queue designs to compare approaches in your system. See also:
+
+*  [Chris' (traditional) lecture slides from 2012](http://eng.anu.edu.au/courses/ENGN2226/current/data/2012_queuing.pdf)
+*  [Blanchard & Fabrycky, Chapter 10](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk05_QueueTheory.pdf) *if you are more mathematically inclined..*
 
 For many groups, it may be difficult to see how Queue Theory applies to your project. You might need to get creative. The big factors that you might want to optimise are your Service Time, and your Cost (eg of installation, maintenance, repair). Optimising your design for these factors will improve your design when it comes to implementation. If you're worried about your project not applying, talk to Chris(!)
 
@@ -170,11 +168,6 @@ Below is a table of simple possible applications to get your creative juices flo
 <tr><td>Toothpaste Dispenser</td><td>Children on a summer camp</td><td>Speed of brushing teeth</td><td>Capital cost of units</td></tr>
 </table>
 
-
-*  [Chris' (traditional) lecture slides from 2012](../data/2012_queuing.pdf)
-*  [Blanchard & Fabrycky, Chapter 10](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk05_QueueTheory.pdf) *if you are more mathematically inclined..*
-
-
 ### Fundamentals: Queue Theory
 Queue theory is highly mathematical. As we are looking at how the theory informs our design, the mathematics should inform our design. To that end, you might want to explore more aspects of Queue Theory, but you should be able to calculate:
 
@@ -182,21 +175,25 @@ Queue theory is highly mathematical. As we are looking at how the theory informs
 *  the average length of the line
 *  the mean waiting time
 
-
-### Tinker Seminar: The Beer Game
-*SMART+ Goal for this session: To test strategies on optimising a workflow of queues in a system.*
-
-We'll play the Beer Game, a logistics game that matches supply of 'beer' with the demand from thirsty customers. We'll use Queue Theory to try and optimise the workflow.
-
-*  [Beer Distribution Game on Wikipedia](http://en.wikipedia.org/wiki/Beer_distribution_game)
- 
-### Side note: Queuing Discussion
+### Discussion: Queuing Discussion
 *Experts in the dark art of queuing theory can use lavender smells, TVs, sight barriers, and music to warp your perception of time. When they get it wrong, queuing rage can result-with deadly consequences* - [Fenella Kernebone hosts a discussion on ABC's 'By Design'](http://www.abc.net.au/radionational/programs/bydesign/the-panelqueueing/4504716) [(Direct link to audio)](http://mpegmedia.abc.net.au/rn/podcast/2013/02/bdn_20130220_1438.mp3) **Definitely listen to this while you're waiting in line if you're trying to find applications to your project.**
 
 ## Wk7: Multifactorial Design
 
-<div class="thumbnail span4 pull-right">
-      <img src="http://failuremag.com/images/uploads/articles/tacomanarrowscollapse.jpg" alt=""><p>**Multifactorial Design:** Understanding the important components in a system will help reduce failure. <small>Image: [failuremag](http://failuremag.com/images/uploads/articles/tacomanarrowscollapse.jpg)</small></p>
+<div class="thumbnail span3 pull-right">
+**In this topic...**
+<ul><li>Concept: Pareto Principle</li>
+<li>Concept: Bathtub Curve</li>
+<li>Fundamentals: DoE</li></ul>
+**Related Resources**
+<ul>
+<li>[Workshop Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk7-multifactorial-design)</li>
+<li>[Tutorial Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk7-multifactorial-design)</li>
+<li>[Seminar: Paper Aircraft](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk7-multifactorial-design)</li>
+<li>[Side Note 1: RCM](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk7-multifactorial-design)</li>
+<li>[Side Note 2: MTBF & MTBM](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk7-multifactorial-design)</li>
+</ul>
+<img src="http://failuremag.com/images/uploads/articles/tacomanarrowscollapse.jpg" alt=""><p>**Multifactorial Design:** Understanding the important components in a system will help reduce failure. <small>Image: [failuremag](http://failuremag.com/images/uploads/articles/tacomanarrowscollapse.jpg)</small></p>
 </div>
 
 All systems will fail, eventually. Understanding the likely sources of existing and future problems will help you design a much more reliable system.
@@ -207,35 +204,34 @@ A Pareto Analysis will help you determine the most important variables/factors f
 *  The [Pareto principle](http://en.wikipedia.org/wiki/Pareto_principle) and [Pareto chart](http://en.wikipedia.org/wiki/Pareto_chart) Wikipedia pages have some good examples on how this applies
 *  An example application can be seen in [*Safety at Sea - Applying Pareto Analysis* by R. Ziarati](http://www.marifuture.org/Publications/Papers/safety_at_sea_applying_pareto_analysis.pdf)
 
-
 ### Concept: The Bathtub Curve
 The bathtub curve is a classical model used again as a rule of thumb to understand the likelihood of system failure over its lifecycle. Of the three categories of failure, early failures are usually associated with electronic systems, and wear-out failures are usually associated with mechanical systems. Appreciating this established relationship should help you identify potential areas where you can improve the quality of your design. 
 
 *  [The Bathtub Curve](http://en.wikipedia.org/wiki/Bathtub_curve) on Wikipedia
 
-Note that not all products and systems observe the Bathtub curve, and with increasingly more complicated systems being developed all the time, the bathtub curve is increasingly becoming known as the "Bathtub Fallacy". Companies are instead opting for Reliability-Centered Maintenance (RCM) as a method to improve the reliability of systems.
-
-*  [*Reliability-Centered Maintenance*](http://homepages.laas.fr/kader/rcm.pdf) by Anthony M. Smith provides a great overview of Bathtub-to-RCM thinking.
+See also [Reliability-Centered Maintenance](notes#side-note-reliability-centered-maintenance).
 
 ### Fundamentals: Design of Experiments (DoE)
 The fundamental theory this week (DoE) gives us a methodology to navigate concepts of reliability. When the interactions in systems are so complex that you can't see simple patterns of cause-and-effect, identifying some key parameters and analysing them can help you see their relationships. 
 
 *  [http://en.wikipedia.org/wiki/Design_of_experiments](http://en.wikipedia.org/wiki/Design_of_experiments)
-*  [Design of Experiments Overview](http://asq.org/learn-about-quality/data-collection-analysis-tools/overview/design-of-experiments.html) (with links to tutorials) on ASQ's website.
-
-### Side Note: MTBF & MTBM
-When considering reliability XXX
-
-### Tinker Seminar: Paper Aircraft 
-Ever wondered what makes the best paper aeroplanes? Is it the materials, the design, or how well the folds are made? 
-
-We'll conduct the DoE on a variety of paper aeroplane designs, to understand what parameters could be optimised for the best design.
+*  [Design of Experiments Overview](http://asq.org/learn-about-qualihttp://eng.anu.edu.au/courses/ENGN2226/current/data-collection-analysis-tools/overview/design-of-experiments.html) (with links to tutorials) on ASQ's website.
 
 ## Wk8: Life-Cycle Audit
 
-<div class="thumbnail span4 pull-right">
-      <img src="http://images.smh.com.au/2009/05/21/535587/toxicewaste-420x0.jpg
-" alt=""><p>**Product Life-Cycle:** Considering the end-of-life issues in a design could be the key to resolving the eWaste problem. <small>Image: [SMH](http://www.smh.com.au/environment/toxic-australian-ewaste-dumped-on-china-20090521-bh6f.html)</small></p>
+<div class="thumbnail span3 pull-right">
+**In this topic...**
+<ul><li>Concept: I=PAT</li>
+<li>Concept: Embodied Energy</li>
+<li>Fundamentals: Materials Audit</li></ul>
+**Related Resources**
+<ul>
+<li>[Workshop Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk8-life-cycle-audit)</li>
+<li>[Tutorial Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk8-life-cycle-audit)</li>
+<li>[Seminar: Mobile Teardown](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk8-life-cycle-audit)</li>
+<li>[Side Note 1: Story of Electronics](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk8-life-cycle-audit)</li>
+</ul>
+<img src="http://images.smh.com.au/2009/05/21/535587/toxicewaste-420x0.jpg" alt=""><p>**Product Life-Cycle:** Considering the end-of-life issues in a design could be the key to resolving the eWaste problem. <small>Image: [SMH](http://www.smh.com.au/environment/toxic-australian-ewaste-dumped-on-china-20090521-bh6f.html)</small></p>
 </div>
 
 ### Concept: Population, Consumption, and Technology
@@ -273,28 +269,21 @@ This should then give you a basis to explore some of the information about the m
 
 *  [US Life-Cycle Inventory Database](http://www.nrel.gov/lci/) gives a comprehensive list of processes and flows of certain materials
 
-<div class="thumbnail span2 pull-right">
-<a href="http://www.ifixit.com/Manifesto"><img src="http://d1luk0418egahw.cloudfront.net/static/images/manifesto/ifixit_self-repair_manifesto_900x1390.jpg" alt="" width="140px"></a></div>
-
-### Tinker Seminar: Mobile Phone Teardown
-
-This week we're going to document (photograph) the process of taking apart an old mobile phone. [MobileMuster](http://www.mobilemuster.com.au/) has kindly donated mobile phones, but we can try to revive an old phone you have lying around too. 
-
-Note that if you'd like to fix the screen of a phone that you have broken, talk to Chris, buy the parts, and we can see what we can do :) 
-
-A great resource for fixing modern electronics is [iFixit](http://ifixit.org).
-
-
-### Side Note: The Story of Electronics
-
-<iframe class="thumbnail span4 pull-right" width="300" height="225" src="//www.youtube.com/embed/sW_7i6T_H78" frameborder="0" allowfullscreen></iframe>
-
-Annie Leonard has become somewhat of a folk-hero with her informed but personal stories of (un)sustainable consumption at [The Story of Stuff Project](http://www.storyofstuff.org/). Check out the Story of Electronics (and then make sure you come and fix your old phone :)
-
 ## Wk9: Energy-Mass Balance
 
-<div class="thumbnail span4 pull-right">
-      <img src="http://3.bp.blogspot.com/-xgG0-KGx6Tw/UKth8KZ7wiI/AAAAAAAAAJk/AhbxLYYxedw/s1600/ei.jpg" alt=""><p>**Energy Loss:** Where does all the energy in your system go? <small>Image: [tueinmotion](http://tueinmotion.blogspot.com.au/)</small></p>
+<div class="thumbnail span3 pull-right">
+<ul><li>Concept: EMB Audit</li>
+<li>Fundamentals: E/M Mapping</li>
+<li>Fundamentals: Sankey Diagrams</li></ul>
+**Related Resources**
+<ul>
+<li>[Workshop Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk9-energy-mass-balance)</li>
+<li>[Tutorial Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk9-energy-mass-balance)</li>
+<li>[Seminar: Pedal Power](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk9-energy-mass-balance)</li>
+<li>[Side Note 1: Energy Savings Guide](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk9-energy-mass-balance)</li>
+<li>[Side Note 2: Cradle-to-Cradle](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk9-energy-mass-balance)</li>
+</ul>
+<img src="http://3.bp.blogspot.com/-xgG0-KGx6Tw/UKth8KZ7wiI/AAAAAAAAAJk/AhbxLYYxedw/s1600/ei.jpg" alt=""><p>**Energy Loss:** Where does all the energy in your system go? <small>Image: [tueinmotion](http://tueinmotion.blogspot.com.au/)</small></p>
 </div>
 
 ### Concept: Energy-Mass Balance Audit
@@ -319,22 +308,19 @@ You should be able to complete a Sankey diagram for your entire system, or at le
 
 If you're having trouble drawing these diagrams, there are some specific software packages listed at [www.sankey-diagrams.com](http://www.sankey-diagrams.com/sankey-diagram-software/). Personally, I use [Omnigraffle](http://www.omnigroup.com/products/omnigraffle/), which is a paid Mac app but there is a free trial.
 
-### Tinker Seminar: Electric Bikes (TBC)
-In our penultimate Seminar, we're going to see what we can really power with pedals. A group from [Engineers Without Borders](http://ewb.org.au) has prepared an activity that converts pedal power into AC, allowing us to use it as a source of energy. We'll investigate the Energy-Mass Balance and where the energy losses occur in the system.
-
-### Side Note 1: Energy Savings Measurement Guide
-While you're looking at the Energy-Mass Balance material on the [Energy Efficiency Opportunities](http://energyefficiencyopportunities.gov.au/) website, you should check out their [Energy Savings Measurement Guide](http://energyefficiencyopportunities.gov.au/guides/energy-savings-measurement/), which explores opportunities to improve energy efficiency in systems. [The Natural Edge Project](http://www.naturaledgeproject.net/whole_system_design.aspx)'s Whole System Design also highlights some worked examples of this style of system analysis.
-
-### Side Note 2: Cradle to Cradle Design
-
-<iframe class="thumbnail span4 pull-right" src="http://embed.ted.com/talks/william_mcdonough_on_cradle_to_cradle_design.html" width="300" height="225" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-What about designing a machine that can convert carbon dioxide into oxygen, stores large amounts of carbon, provide shade and a home to animals, releases nutrients into the ground... You get the idea. Check out William McDonough's video on Cradle-to-Cradle design, and reframe the way you think about waste.
-
 ## Wk10: Economic Analysis
 
-<div class="thumbnail span4 pull-right">
-      <img src="http://pmstudy.com/blog/wp-content/uploads/2012/11/Payback-Period-300x225.jpg" alt=""><p>**Pay-back:** Establishing the trade-off between time and money.<small>Image: [PMStudy](http://pmstudy.com/blog/?p=312)</small></p>
+<div class="thumbnail span3 pull-right">
+<ul><li>Concept: Life-Cycle Costing</li>
+<li>Concept: Rebound Effect</li>
+<li>Fundamentals: Payback Period</li>
+**Related Resources**
+<ul>
+<li>[Workshop Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk10-economic-analysis)</li>
+<li>[Tutorial Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk10-economic-analysis)</li>
+<li>[Seminar: Business Case](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk10-economic-analysis)</li>
+</ul>
+<img src="http://pmstudy.com/blog/wp-content/uploads/2012/11/Payback-Period-300x225.jpg" alt=""><p>**Pay-back:** Establishing the trade-off between time and money.<small>Image: [PMStudy](http://pmstudy.com/blog/?p=312)</small></p>
 </div>
 
 At the end of the day, the most important analytical technique to get a project off the ground is likely to be the economic analysis. Can the system pay for itself? Can it be profitable? Once you've established the feasibility of the other aspects of your design, now turn your mind to selling it!
@@ -383,7 +369,3 @@ There are several classic examples to make economic arguments for one system ove
 When plotted on an axis over time, there will be a point at which the two options cross - this is the payback period. In a system, this becomes more complicated when you consider all life-cycle costs, like those outlined in the Life-Cycle Costs topic.
 
 A good guide for calculating the payback period is in the Victorian Government's EREP Toolkit: [Calculating payback periods](http://www.epa.vic.gov.au/~/media/publications/1210.pdf)
-
-### Tinker Seminar: Business Case
-
-We'll compare some economic models and come up with a business decision.
