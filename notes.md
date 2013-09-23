@@ -11,12 +11,9 @@ These are notes and side notes from the workshops, seminars and course in genera
 
 ### Tutorial: How Many X in Y?
 
-<div class="alert alert-info">
-<ul>
-<li>[Week 3 Tutorial Worksheet]((http://eng.anu.edu.au/courses/ENGN2226/current/data/wk03-estimationhandout.pdf)</li>
-<li>[Week 3 Tutor's Secret Plan]((http://eng.anu.edu.au/courses/ENGN2226/current/data/secret_plan_estimation.pdf)</li>
-</ul>
-</div>
+*  [Week 3 Tutorial Worksheet]((http://eng.anu.edu.au/courses/ENGN2226/current/data/wk03-estimationhandout.pdf)
+*  [Week 3 Tutor's Secret Plan]((http://eng.anu.edu.au/courses/ENGN2226/current/data/secret_plan_estimation.pdf)
+
 
 ### Seminar
 
@@ -42,7 +39,6 @@ There are a number great resources for understanding systems using systems think
 *  [Beginner Modelling Exercises](http://clexchange.org/ftp/documents/Roadmaps/RM2/D-4347-7.pdf)
 *  [Graphical Integration Exercises](http://clexchange.org/ftp/documents/Roadmaps/RM2/D-4547-1.pdf)
 
-
 ## Wk5: Human Factors
 
 ### Workshop Notes
@@ -58,7 +54,10 @@ Some projects might not have a strong anthropometric or ergonomic component (or 
 
 How fast can you type? A computer keyboard is a fairly universal design solution for inputting text into a computer, but has it been designed with humans in mind? We'll test the traditional QWERTY layout against alternative layouts.
 
-*  
+*  [Chris' worksheet for the activity](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_worksheet_hf.pdf)
+*  [Resources for running the keyboard activity](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_notes-hf-keyboard.zip)
+*  [Anonymous data collected during the session](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_notes-hf-measurements.xls)
+
 
 ### Side note: Broken
 <iframe class="thumbnail span4 pull-right" src="http://player.vimeo.com/video/4246943?title=0&amp;byline=0&amp;portrait=0" width="300" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
@@ -87,7 +86,9 @@ Who determines when and to what degree things are broken? The user does, of cour
 We'll play the Beer Game, a logistics game that matches supply of 'beer' with the demand from thirsty customers. We'll use Queue Theory to try and optimise the workflow.
 
 *  [Beer Distribution Game on Wikipedia](http://en.wikipedia.org/wiki/Beer_distribution_game)
-*  [Chris' Slides from the Seminar](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/Seminar06.pdf)
+*  [Chris' Slides from the Seminar](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar-qt_beer_game.pdf)
+*  [Chris' Handouts for the Beer Game](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar-qt_beer_game.zip)
+
 
 ### Side Note 1: PERT Charts
 
