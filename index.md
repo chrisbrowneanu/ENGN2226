@@ -111,9 +111,9 @@ The [weekly topics schedule](#weekly_topics) has a detailed list of important ti
 | 8 | LC Audit [SR] | Phone Teardown | EMB Plan facilitators | |
 | 9 | EMB Plan [SR] | TBA | Economic Analysis facilitators | |
 | 10 | Economic Analysis [SR] | TBA | No Workshop | |
-| 11 | Project Tune-Up | Project Tune-Up | No Workshop | |
+| 11 | Project Tune-Up | Portfolio Tune-Up | No Workshop | |
 | 12 | Project Presentations | Conclusions Seminar<br /><em>Compulsory</em> | No Workshop | |
-| 13 | Presentations to Clients | No Seminar | No Workshop | Portfolio presentations |
+| 13 | <td colspan="4">Portfolio Interviews |
 
 *Key - EMB: Energy-Mass Balance; LCA: Life-Cycle Assessment; SR: Student-Run
 
