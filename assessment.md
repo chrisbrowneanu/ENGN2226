@@ -28,7 +28,7 @@ There are detailed criteria for each assessment piece. However, John Biggs' Stru
 We will talk about this during classes and meetings, but if you have any questions please raise them.
 Adapted from http://www.johnbiggs.com.au/solo_taxonomy.html. 
 
-![SOLO Taxonomy](../data/biggs.png)
+![SOLO Taxonomy](http://eng.anu.edu.au/courses/ENGN2226/current/data/biggs.png)
 
 
 # Group Project Guide <a id="Group_Project_Guide"></a>
@@ -324,7 +324,7 @@ You will be awarded a mark for each of the two peer reviews you complete. You wi
 Submission will be available on WATTLE - please complete the activity there. (Should take less than 30 minutes if you're across the content.)
 
 # Portfolio
-The Core Competencies Portfolio is an opportunity for individuals to showcase their understanding and extension of themes and concepts in the course.
+The 'Core Competencies' Portfolio is an opportunity for individuals to showcase their understanding and extension of themes and concepts in the course.
 
 **As much as possible, you should look for a technology theme that you can get hands-on with. Think of using the 'Think, Plan, Do, Invent' loops to demonstrate your learning (teardowns, builds, repairs, reflections encouraged!)**
 
@@ -335,7 +335,7 @@ There is no clear format for this assessment piece. Creativity and insights base
 The Core Competencies Portfolio should:
 
 *  have a common technology theme<br />*You should not choose a theme that is a copy of your group project. You could, however, laterally explore technologies to inform your project if you wish. You can discuss this with Chris in your Week 5 meeting if you are unsure. You can, of course, choose a technology not related to your project. Most importantly, you should choose a technology that interests you.*
-*  contain insightful analysis that demonstrates your understanding of the course content<br />*You should choose between 4-8 analysis techniques from the course and apply the theory to your technology. You must choose topics that you didn't facilitate or write your research paper on.*
+*  contain insightful analysis that demonstrates your understanding of the course content<br />*You should choose between 4-8 analysis techniques from the course and apply the theory to your technology. You must choose topics that you didn't write your research paper on.* ***(Note: you may use the Facilitation topic)***
 *  be a professional representation (if you're writing a report, it should be of **12-15 pages** in length, developed over the semester). However, if you would like to present your portfolio in an alternative format, please raise this with Chris in the Week 5 meeting.
 
 *Note: although there is no strict format for the Portfolio, you might consider it as:*
