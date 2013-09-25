@@ -58,7 +58,6 @@ How fast can you type? A computer keyboard is a fairly universal design solution
 *  [Resources for running the keyboard activity](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_notes-hf-keyboard.zip)
 *  [Anonymous data collected during the session](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_notes-hf-measurements.xls)
 
-
 ### Side note: Broken
 <iframe class="thumbnail span4 pull-right" src="http://player.vimeo.com/video/4246943?title=0&amp;byline=0&amp;portrait=0" width="300" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
@@ -75,7 +74,7 @@ Who determines when and to what degree things are broken? The user does, of cour
 ## Wk6: Queue Theory
 
 ### Tutorial Notes
-*  [Orientation notes from last week's tutorial (PDF)](http://eng.anu.edu.au/courses/ENGN2226/current/data/tutorial_notes.pdf)
+*  [Orientation notes from for QT topic (PDF)](http://eng.anu.edu.au/courses/ENGN2226/current/data/tutorial_notes.pdf)
 
 ### Workshop Notes
 *  [Download Chris' Secret Plan for the workshop (PDF)](http://eng.anu.edu.au/courses/ENGN2226/current/data/workshop_secret_plan_qt.pdf)
@@ -113,6 +112,9 @@ Ever wondered what makes the best paper aeroplanes? Is it the materials, the des
 
 We'll conduct the DoE on a variety of paper aeroplane designs, to understand what parameters could be optimised for the best design.
 
+*  [Hamza's Slides](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_slides-mfd-hb.pdf) on *Automated Aerospace Composites Manufacturing*
+*  [Chris's Worksheet for Paper Planes](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_worksheet-mfd.pdf)
+
 ### Side Note: Reliability-Centered Maintenance
 Note that not all products and systems observe the Bathtub curve, and with increasingly more complicated systems being developed all the time, the bathtub curve is increasingly becoming known as the "Bathtub Fallacy". Companies are instead opting for Reliability-Centered Maintenance (RCM) as a method to improve the reliability of systems.
 
@@ -146,6 +148,7 @@ A great resource for fixing modern electronics is [iFixit](http://ifixit.org).
 Further resources:
 
 *  [Boks, C.; Huisman, J.; Stevels, A., "Combining economical and environmental considerations in cellular phone design," Electronics and the Environment, 2000. ISEE 2000. Proceedings of the 2000 IEEE International Symposium](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=857620&isnumber=18632)
+*  [Chris's worksheet for the teardown](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_worksheet-lca.pdf)
 
 
 ### Side Note: The Story of Electronics
