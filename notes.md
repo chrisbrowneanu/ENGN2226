@@ -149,7 +149,8 @@ Further resources:
 
 *  [Boks, C.; Huisman, J.; Stevels, A., "Combining economical and environmental considerations in cellular phone design," Electronics and the Environment, 2000. ISEE 2000. Proceedings of the 2000 IEEE International Symposium](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=857620&isnumber=18632)
 *  [Chris's worksheet for the teardown](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_worksheet-lca.pdf)
-
+*  [Vi Kie's slides from her presentation](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_slides-lca-vksoo.pdf)
+*  [Everyone's Compiled Teardown Results](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_notes-lca-teardown-results.pdf)
 
 ### Side Note: The Story of Electronics
 
