@@ -57,6 +57,7 @@ How fast can you type? A computer keyboard is a fairly universal design solution
 *  [Chris' worksheet for the activity](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_worksheet_hf.pdf)
 *  [Resources for running the keyboard activity](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_notes-hf-keyboard.zip)
 *  [Anonymous data collected during the session](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_notes-hf-measurements.xls)
+*  When we were analysing the data and 'graphing' it, we were using a [Statistical Process Chart](http://eng.anu.edu.au/courses/ENGN2225/course-files/ENGN2226/notes_hf-blanchard-spc.pdf), which might be a useful platform for your analyses.
 
 ### Side note: Broken
 <iframe class="thumbnail span4 pull-right" src="http://player.vimeo.com/video/4246943?title=0&amp;byline=0&amp;portrait=0" width="300" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
@@ -87,15 +88,20 @@ We'll play the Beer Game, a logistics game that matches supply of 'beer' with th
 *  [Beer Distribution Game on Wikipedia](http://en.wikipedia.org/wiki/Beer_distribution_game)
 *  [Chris' Slides from the Seminar](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar-qt_beer_game.pdf)
 *  [Chris' Handouts for the Beer Game](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar-qt_beer_game.zip)
-
+*  [Chris' summary and analysis of the results](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_qt-beer-game-results.pdf)
+*  [Collated data](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_qt-beer-game-data.zip)
 
 ### Side Note 1: PERT Charts
 
-Coming...
+Another method of looking work in a system over time is by using the Critical Path Method (CPM) and Program Evaluation and Review Technique (PERT) charts. If you're struggling to apply queue theory to your project or portfolio, these techniques are welcome to be used.
 
-### Side Note 2: Just it Time Manufacturing
+*  [CPM and PERT in Blanchard & Fabrycky](http://eng.anu.edu.au/courses/ENGN2225/course-files/ENGN2226/notes_qt-blanchard-pert.pdf)
+:
+During the seminar the concept of JIT manufacturing came up. If you'd like to explore this and associated concepts, these are a few resources that could get you started.
 
-Coming...
+*  The [Kanban method on Wikipedia](http://en.wikipedia.org/wiki/Kanban) - *kanban is a 'twin bin' method that reduces inventory on site*
+*  Lean Manufacturing is also a JIT concept. [This video of a Boeing manufacturing line](https://www.youtube.com/watch?v=9_9WyiPhoHA) demonstrates lean manufacturing principles.
+*  The wikipedia article on [Six Sigma](http://en.wikipedia.org/wiki/Six_Sigma) also gives a good overview of continuous improvement, which is another key aspect of JIT
 
 ## Wk7: Multifactorial Design
 
@@ -121,8 +127,7 @@ Note that not all products and systems observe the Bathtub curve, and with incre
 *  [*Reliability-Centered Maintenance*](http://homepages.laas.fr/kader/rcm.pdf) by Anthony M. Smith provides a great overview of Bathtub-to-RCM thinking.
 
 ### Side Note: MTBF & MTBM
-When considering reliability XXX
-
+When considering reliability, the likely failure rate is a useful factor in any analysis. [Blanchard & Fabrycky's section on reliability](http://eng.anu.edu.au/courses/ENGN2225/course-files/ENGN2226/notes_mfd-blanchard-mtbf.pdf) cover Mean Time Before Failure and Mean Time Before Maintenance and associated concepts well.
 
 ## Wk8: Life-Cycle Audit
 
@@ -151,6 +156,7 @@ Further resources:
 *  [Chris's worksheet for the teardown](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_worksheet-lca.pdf)
 *  [Vi Kie's slides from her presentation](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_slides-lca-vksoo.pdf)
 *  [Everyone's Compiled Teardown Results](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_notes-lca-teardown-results.pdf)
+*  Also see [PhoneBloks](www.phonebloks.com) for a new approach to mobile phone design
 
 ### Side Note: The Story of Electronics
 
