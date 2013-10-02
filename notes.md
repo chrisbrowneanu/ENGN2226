@@ -179,11 +179,26 @@ Some extra resources that might be useful:
 *  [Energy implications of bottled water, Gleick & Cooley (2009)](http://eng.anu.edu.au/courses/ENGN2226/current/data/emb_Gleick_and_Cooley_2009.pdf)
 *  [The Story of Bottled Water (video)](http://www.youtube.com/watch?v=Se12y9hSOM0) ~8 minutes
 
-### Tutorial Notes
 
+### Tinker Seminar: Canberra's transport future
+*Note that the Pedal Power example has moved to the Economic Analysis topic*
 
-### Tinker Seminar: Pedal Power
-In our penultimate Seminar, we're going to see what we can really power with pedals. A group from [Engineers Without Borders](http://ewb.org.au) has prepared an activity that converts pedal power into AC, allowing us to use it as a source of energy. We'll investigate the Energy-Mass Balance and where the energy losses occur in the system.
+Canberra has a plan for its transport future, and we're going to investigate the Energy-Mass Balance aspects of these plans.
+
+Relevant Resources:  
+*  [ACT Government Transport Plan (2012)](http://www.transport.act.gov.au/__data/assets/pdf_file/0003/397245/Pages_from_EDS_ACT_Transport_Policy_FA_final_web.pdf)
+*  [DRET's Energy Efficiency Opportunities: Transport (2010)](http://eeo.govspace.gov.au/files/2012/10/EMB-Transport.pdf)
+
+And some reports that have some great ideas:
+*  [Beyond Zero Emissions Zero Energy Transport Plan](http://bze.org.au/media/newswire/zero-carbon-transport-what-might-it-look-120802)
+*  [ACT Greens Active Transport Plan](http://act.greens.org.au/sites/greens.org.au/files/ACT_Greens_Active_Transport_Plan.pdf)
+
+We'll go through a modified process of creating an EMB plan:
+1.  Develop a project plan
+1.  Map the energy use in the system for two transport modes
+1.  Discuss Data and Define Boundaries
+1.  Construct a new map to address EMB efficiencies
+
 
 ### Side Note 1: Energy Savings Measurement Guide
 While you're looking at the Energy-Mass Balance material on the [Energy Efficiency Opportunities](http://energyefficiencyopportunities.gov.au/) website, you should check out their [Energy Savings Measurement Guide](http://energyefficiencyopportunities.gov.au/guides/energy-savings-measurement/), which explores opportunities to improve energy efficiency in systems. [The Natural Edge Project](http://www.naturaledgeproject.net/whole_system_design.aspx)'s Whole System Design also highlights some worked examples of this style of system analysis.
@@ -194,6 +209,9 @@ While you're looking at the Energy-Mass Balance material on the [Energy Efficien
 What about designing a machine that can convert carbon dioxide into oxygen, stores large amounts of carbon, provide shade and a home to animals, releases nutrients into the ground... You get the idea. Check out William McDonough's video on Cradle-to-Cradle design, and reframe the way you think about waste.
 
 ## Wk10: Economic Analysis
-### Tinker Seminar: Business Case
+### Tinker Seminar: Pedal Power - Business Case
+
+In our topic Seminar, we're going to see what we can really power with pedals. A group from [Engineers Without Borders](http://ewb.org.au) has prepared an activity that converts pedal power into AC, allowing us to use it as a source of energy. We'll investigate the economic argument for pedal power.
+
 
 We'll compare some economic models and come up with a business decision.
