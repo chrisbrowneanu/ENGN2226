@@ -215,7 +215,7 @@ See also [Reliability-Centered Maintenance](notes#side-note-reliability-centered
 The fundamental theory this week (DoE) gives us a methodology to navigate concepts of reliability. When the interactions in systems are so complex that you can't see simple patterns of cause-and-effect, identifying some key parameters and analysing them can help you see their relationships. 
 
 *  [http://en.wikipedia.org/wiki/Design_of_experiments](http://en.wikipedia.org/wiki/Design_of_experiments)
-*  [Design of Experiments Overview](http://asq.org/learn-about-qualihttp://eng.anu.edu.au/courses/ENGN2226/current/data-collection-analysis-tools/overview/design-of-experiments.html) (with links to tutorials) on ASQ's website.
+*  [Design of Experiments Overview](http://asq.org/learn-about-quality/data-collection-analysis-tools/overview/design-of-experiments.html) (with links to tutorials) on ASQ's website.
 
 ## Wk8: Life-Cycle Audit
 
