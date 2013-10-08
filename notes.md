@@ -42,7 +42,7 @@ There are a number great resources for understanding systems using systems think
 ## Wk5: Human Factors
 
 ### Workshop Notes
-[Download Chris' Secret Plan for the workshop.](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/workshop_secret_plan_hf.pdf)
+[Download Chris' Secret Plan for the workshop.](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/workshop_secret_plan-hf.pdf)
 
 ### Bonus Concept: Workplace Comfort
 Some projects might not have a strong anthropometric or ergonomic component (or at least, not strong enough to write a research paper on). If this is the case, then you might want to explore other human-related measures, such as lighting or heating levels.
@@ -75,10 +75,10 @@ Who determines when and to what degree things are broken? The user does, of cour
 ## Wk6: Queue Theory
 
 ### Tutorial Notes
-*  [Orientation notes from for QT topic (PDF)](http://eng.anu.edu.au/courses/ENGN2226/current/data/tutorial_notes.pdf)
+*  [Orientation notes from for QT topic (PDF)](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/tutorial_notes-qt.pdf)
 
 ### Workshop Notes
-*  [Download Chris' Secret Plan for the workshop (PDF)](http://eng.anu.edu.au/courses/ENGN2226/current/data/workshop_secret_plan_qt.pdf)
+*  [Download Chris' Secret Plan for the workshop (PDF)](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/workshop_secret_plan-qt.pdf)
 
 ### Tinker Seminar: The Beer Game
 *SMART+ Goal for this session: To test strategies on optimising a workflow of queues in a system.*
@@ -156,7 +156,7 @@ Further resources:
 *  [Chris's worksheet for the teardown](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_worksheet-lca.pdf)
 *  [Vi Kie's slides from her presentation](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_slides-lca-vksoo.pdf)
 *  [Everyone's Compiled Teardown Results](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_notes-lca-teardown-results.pdf)
-*  Also see [PhoneBloks](www.phonebloks.com) for a new approach to mobile phone design
+*  Also see [PhoneBloks](http://www.phonebloks.com) for a new approach to mobile phone design
 
 ### Side Note: The Story of Electronics
 
@@ -173,7 +173,7 @@ We're going to look at bottled water, and its alternatives.
 
 Some extra resources that might be useful:
 
-*  [Bottled Water: Pouring Resources Down the Drain, Arnold (nd)](http://eng.anu.edu.au/courses/ENGN2226/current/data/Arnold.pdf)
+*  [Bottled Water: Pouring Resources Down the Drain, Arnold (nd)](http://eng.anu.edu.au/courses/ENGN2226/current/data/emb_Arnold_2006.pdf)
 *  [Bottled Water: Understanding a Social Phenomena, Ferrier (2001)](http://eng.anu.edu.au/courses/ENGN2226/current/data/emb_Ferrier_2001)
 *  [Bottled and Sold, Gleick (2010)](http://eng.anu.edu.au/courses/ENGN2225/course-files/ENGN2226/emb_Gleick_2010.pdf)
 *  [Energy implications of bottled water, Gleick & Cooley (2009)](http://eng.anu.edu.au/courses/ENGN2226/current/data/emb_Gleick_and_Cooley_2009.pdf)
