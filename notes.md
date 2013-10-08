@@ -5,14 +5,14 @@ These are notes and side notes from the workshops, seminars and course in genera
 ## Wk2: Design to Analysis
 
 ### Seminar: Course Introduction + Interdependent Design
-*  [Seminar Slides]((http://eng.anu.edu.au/courses/ENGN2226/current/data/Seminar01.pdf)
+*  [Seminar Slides](http://eng.anu.edu.au/courses/ENGN2226/current/data/Seminar01.pdf)
 
 ## Wk3: Informed Estimation
 
 ### Tutorial: How Many X in Y?
 
-*  [Week 3 Tutorial Worksheet]((http://eng.anu.edu.au/courses/ENGN2226/current/data/wk03-estimationhandout.pdf)
-*  [Week 3 Tutor's Secret Plan]((http://eng.anu.edu.au/courses/ENGN2226/current/data/secret_plan_estimation.pdf)
+*  [Week 3 Tutorial Worksheet](http://eng.anu.edu.au/courses/ENGN2226/current/data/wk03-estimationhandout.pdf)
+*  [Week 3 Tutor's Secret Plan](http://eng.anu.edu.au/courses/ENGN2226/current/data/secret_plan_estimation.pdf)
 
 
 ### Seminar
@@ -42,7 +42,7 @@ There are a number great resources for understanding systems using systems think
 ## Wk5: Human Factors
 
 ### Workshop Notes
-[Download Chris' Secret Plan for the workshop.]((http://eng.anu.edu.au/courses/ENGN2226/current/data/workshop_secret_plan_hf.pdf)
+[Download Chris' Secret Plan for the workshop.](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/workshop_secret_plan_hf.pdf)
 
 ### Bonus Concept: Workplace Comfort
 Some projects might not have a strong anthropometric or ergonomic component (or at least, not strong enough to write a research paper on). If this is the case, then you might want to explore other human-related measures, such as lighting or heating levels.
@@ -194,6 +194,7 @@ And some reports that have some great ideas:
 *  [ACT Greens Active Transport Plan](http://act.greens.org.au/sites/greens.org.au/files/ACT_Greens_Active_Transport_Plan.pdf)
 
 We'll go through a modified process of creating an EMB plan:
+
 1.  Develop a project plan
 1.  Map the energy use in the system for two transport modes
 1.  Discuss Data and Define Boundaries
