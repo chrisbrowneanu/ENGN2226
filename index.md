@@ -72,7 +72,7 @@ As this course is run out of the Research School of Engineering, the relevant ru
 
 **If you have any issues, please talk to Chris early.**
 
-You can download a copy of the Engineering Student Handbook from the Student Portal on [WATTLE](http://wattlearchive.anu.edu.au).
+[You can find College information on Assessment, Exams and Appeals on the Student Portal on WATTLE](http://wattlecourses.anu.edu.au/mod/page/view.php?id=272190).
 
 ## Contact <a id="Contact"></a> 
 
