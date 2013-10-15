@@ -10,7 +10,7 @@ Note that there are no classes in Week 1.
 **In this topic...**
 <ul><li>The Systems Lens</li></ul>
 **Online Classroom**
-<ul><li>[Design to Analysis](http://www.youtube.com/watch?v=rfnNX_vegGo&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li></ul>
+<ul><li>[Design to Analysis](http://www.youtube.com/watch?v=rfnNX_vegGo&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_01-Design-to-Analysis.pdf))</li></ul>
 **Related Resources**
 <ul><li>[Seminar Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk2-design-to-analysis)</li></ul>
 </div>
@@ -29,7 +29,7 @@ Good systems engineers are continually designing, testing (analysing), re-design
 <li>Fundamentals: Error</li>
 </ul>
 **Online Classroom**
-<ul><li>[BotE Estimation](http://www.youtube.com/watch?v=2dIM-wK9unc&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li></ul>
+<ul><li>[BotE Estimation](http://www.youtube.com/watch?v=2dIM-wK9unc&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_03-BotEEstimation.pdf))</li></ul>
 **Related Resources**
 <ul><li>[Tutorial on Estimation](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk3-informed-estimation)</li></ul>
 </div>
@@ -63,7 +63,7 @@ While you're looking at the Australian Bureau of Statistics, brush up on common 
 <li>Concept: Diffusion of Innovations</li>
 <li>Fundamentals: Data fitting</li></ul>
 **Online Classroom**
-<ul><li>[Diffusion of Innovations](http://www.youtube.com/watch?v=egfP7zs3kps&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li></ul>
+<ul><li>[Diffusion of Innovations](http://www.youtube.com/watch?v=egfP7zs3kps&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_04_Diffusion.pdf))</li></ul>
 **Related Resources**
 <ul><li>[Seminar on Dynamic Systems](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk4-dynamical-systems)</li>
 <li>[Approach: Systems Thinking](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk4-dynamical-systems)</li></ul>
@@ -94,8 +94,8 @@ There are many measures for understanding how well your model fits your data set
 <li>Concept: Ergonomics</li>
 <li>Fundamentals: Dispersion</li></ul>
 **Online Classroom**
-<ul><li>[Anthropometrics](http://www.youtube.com/watch?v=kjY_sKSSrL8&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li>
-<li>[Population Data](http://www.youtube.com/watch?v=QTtoCjLw1Sw&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li></ul>
+<ul><li>[Anthropometrics](http://www.youtube.com/watch?v=kjY_sKSSrL8&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_05_HumanFactors.pdf))</li>
+<li>[Population Data](http://www.youtube.com/watch?v=QTtoCjLw1Sw&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_05_PopulationData.pdf))</li></ul>
 **Related Resources**
 <ul><li>[Workshop Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk5-human-factors)</li>
 <li>[Seminar: Keyboards](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk5-human-factors)</li>
@@ -136,7 +136,7 @@ When looking through anthropometric data, you'll come across some statistical co
 <li>Fundamentals: Queue Theory</li>
 <li>Discussion: Queuing</li></ul>
 **Online Classroom**
-<ul><li>[Queue Theory](http://www.youtube.com/watch?v=oAuYMHgS7oQ&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li></ul>
+<ul><li>[Queue Theory](http://www.youtube.com/watch?v=oAuYMHgS7oQ&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_06_QueueTheory.pdf))</li></ul>
 **Related Resources**
 <ul>
 <li>[Tutorial Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk6-queue-theory)</li>
@@ -197,9 +197,9 @@ Queue theory is highly mathematical. As we are looking at how the theory informs
 <li>Concept: Bathtub Curve</li>
 <li>Fundamentals: DoE</li></ul>
 **Online Classroom**
-<ul><li>[Pareto Principle](http://www.youtube.com/watch?v=1KqSFHnFxi4&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li>
-<li>[Bathtub Curve](http://www.youtube.com/watch?v=6khFYWLZGOU&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li>
-<li>[Design of Experiments](http://www.youtube.com/watch?v=6xdAFGBWark&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li>
+<ul><li>[Pareto Principle](http://www.youtube.com/watch?v=1KqSFHnFxi4&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_07_Pareto.pdf))</li>
+<li>[Bathtub Curve](http://www.youtube.com/watch?v=6khFYWLZGOU&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_07_Bathtub.pdf))</li>
+<li>[Design of Experiments](http://www.youtube.com/watch?v=6xdAFGBWark&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_07_DoE.pdf))</li>
 </ul>
 **Related Resources**
 <ul>
@@ -241,8 +241,8 @@ The fundamental theory this week (DoE) gives us a methodology to navigate concep
 <li>Concept: Embodied Energy</li>
 <li>Fundamentals: Materials Audit</li></ul>
 **Online Classroom**
-<ul><li>[IPAT](http://www.youtube.com/watch?v=fU9SP5hL2XA&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li>
-<li>[Materials Audit](http://www.youtube.com/watch?v=3G-iV0-tp38&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li></ul>
+<ul><li>[IPAT](http://www.youtube.com/watch?v=fU9SP5hL2XA&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_08_IPAT.pdf))</li>
+<li>[Materials Audit](http://www.youtube.com/watch?v=3G-iV0-tp38&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_08_MaterialsAudit.pdf))</li></ul>
 **Related Resources**
 <ul>
 <li>[Workshop Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk8-life-cycle-audit)</li>
@@ -296,8 +296,8 @@ This should then give you a basis to explore some of the information about the m
 <li>Fundamentals: E/M Mapping</li>
 <li>Fundamentals: Sankey Diagrams</li></ul>
 **Online Classroom**
-<ul><li>[EMB Flow Map](http://www.youtube.com/watch?v=8b3ZaQ_Xi0o&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li>
-<li>[Sankey Diagrams](http://www.youtube.com/watch?v=5ohpsE_EyBA&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li></ul>
+<ul><li>[EMB Flow Map](http://www.youtube.com/watch?v=8b3ZaQ_Xi0o&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_09_EnergyMassFlowMap.pdf))</li>
+<li>[Sankey Diagrams](http://www.youtube.com/watch?v=5ohpsE_EyBA&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_09_SankeyDiagram.pdf))</li></ul>
 **Related Resources**
 <ul>
 <li>[Workshop Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk9-energy-mass-balance)</li>
@@ -340,8 +340,8 @@ If you're having trouble drawing these diagrams, there are some specific softwar
 <li>Fundamentals: Payback Period</li>
 </ul>
 **Online Classroom**
-<ul><li>[Life-Cycle Cost](http://www.youtube.com/watch?v=fufQZg89iiI&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li>
-<li>[Payback Period](http://www.youtube.com/watch?v=XtqKLJDi_FM&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb)</li></ul>
+<ul><li>[Life-Cycle Cost](http://www.youtube.com/watch?v=fufQZg89iiI&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_10_LCC.pdf))</li>
+<li>[Payback Period](http://www.youtube.com/watch?v=XtqKLJDi_FM&feature=share&list=PL2hygCecjFiVarnhIYx8RZ_dQMr11qLzb) ([as PDF](http://eng.anu.edu.au/courses/engn2226/current/data/oc/OC_10_PaybackPeriod.pdf))</li></ul>
 **Related Resources**
 <ul>
 <li>[Workshop Notes](http://eng.anu.edu.au/courses/ENGN2226/current/notes#wk10-economic-analysis)</li>
