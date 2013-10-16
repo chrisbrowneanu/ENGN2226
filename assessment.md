@@ -346,8 +346,10 @@ The Core Competencies Portfolio should:
 ### Marking Criteria
 This is a significant part of the course mark. To benefit different learning styles and differentiate understanding of course concepts, there are three aspects to this submission:
 
-*  Portfolio artefact (20%)<br /><em>i.e. the document</em>
+*  Portfolio artefact (20%)<br />*i.e. the document*
 *  Portfolio discussion and defence (10%)<br />*A 10-min walkthrough of your document, which will include questions and answers of aspects of your Portfolio.*
+
+The task requirements will be marked according to the Generalised criteria at the top of this page.
 
 ### Submission
 There will be a Week 5 meeting with Chris to bounce ideas around for your Portfolio. You should bring a plan to help guide your plan. Sign up for a spot on WATTLE.
