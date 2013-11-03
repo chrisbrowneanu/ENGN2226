@@ -46,7 +46,7 @@ There are a number of things that you can do to get your idea across:
 **ENGN2226 in 2013**
 
 *  Danny - *An Analysis on whether Photographers really need a Dedicated Travel Camera* ([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_lp_danny.pdf))
-*  Hein - *Library Design* ([Visit](http://226hein2013.weebly.com))([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_lp_hein.zip))
+*  Hein - *Library Design* ([Visit](http://2226hein2013.weebly.com))([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_lp_hein.zip))
 *  Jeremy - *An Analysis of the Feasibility and Design of an Online Freelancing Website* ([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_lp_jeremy.pdf))
 *  Joel - *Biometric Passport Authentication By Facial Recognition* ([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_lp_joel.pdf))
 *  Namita - *Airbag Technology* ([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_lp_namita.pdf))
