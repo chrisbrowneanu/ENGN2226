@@ -343,6 +343,8 @@ The Core Competencies Portfolio should:
 *  *an in-depth analysis or feasibility study of one peice of technology, and how the analysis has influenced the design.*
 *  *a comparison of two alternative techologies, with critique of the design aspects based on the analysis.*
 
+**Please use this Portfolio checklist to make sure you're on the right track with your portfolio. [PDF](http://eng.anu.edu.au/courses/ENGN2226/current/data/portfolio_checklist.pdf)**
+
 ### Marking Criteria
 This is a significant part of the course mark. To benefit different learning styles and differentiate understanding of course concepts, there are three aspects to this submission:
 
