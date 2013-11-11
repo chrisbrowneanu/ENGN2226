@@ -4,20 +4,22 @@ This course focusses on developing a critical approach to problem solving using 
 
 ## Overview
 
-<table>
-<tr>
-<th>Task</th><th>Component</th><th>Marks</th><th>Notes</th></tr>
-<tr><th rowspan="3">Group Project (25%)</th><th>[Project Concept Document + Roundtable](#project-concept-document)</th><td>(Feedback only)</td><td>Due Wk 4 Tutorials</td></tr>
-<tr><th>Client Meetings</th><td>(Voluntary)</td><td>During Wk 5 (TBA)</td></tr>
-<tr><th>[Project Report + Roundtable](#project-report)</th><td>25%</td><td>Draft: Wks 4-11 in tutorials<br />Final: Wk 12 Tutorials</td></tr>
-<tr><th rowspan="3">Jigsaw Tasks (45%)<br />*Chosen in Week 2 tutorial.*</th><th>[Tutorial Facilitation](#tutorial-facilitation-guide)</th><td>15%</td><td>Topic workshop 'ticket' and attendance (required, no mark)<br />Secret Plan: as a group (5%)<br />Tutorial Facilitation: as a group (10%)</td></tr>
-<th>[Individual Research Paper or Poster](#research-paper-guide)</th><td>25%</td><td>Structured Abstract: Due Mon in week before topic (5%)<br />Topic workshop: Mon week before topic (first hour only, strongly recommended)<br />Draft Paper due Mon in week of topic (required, no marks)<br />Paper or Poster (and Peer Review Critique): due Fri after topic wk (20%)</td></tr>
-<th>[Peer Review](#peer-review) x 2</th><td>5% total</td><td>Receive paper: Tuesday of topic week<br />Submit review: Friday of topic week</td></tr>
-<th rowspan="2">Portfolio (30%)</th><th>Meet with Chris</th><td>(Compulsory)</td><td>During Wk 5, sign up on WATTLE</td></tr>
-<th>[Submission + Discussion](#portfolio)</th><td>30%</td><td>Portfolio due Friday Wk 12 on WATTLE (20%)<br />Discussion and feedback with Chris during Wk 13 (10%)</td></tr>
 
+| Component | Marks | Notes |
+|:----:|:-----------|:------------|
+| **GROUP PROJECT (25%)** |||
+| [Roundtable 1 + PCD](#project-concept-document) | (Feedback) | PCD: Due Wk 4 Tutorials |
+| Client Meetings | (Voluntary) | During Wk 5 (TBA) |
+| [Weekly Progress Reports](#progress-report) | 10% | Weekly Homework Due: Wks 4-11 in tutorials |
+| [Roundtable 2 + FPR](#project-report) | 15% | Final Project Report: Wk 12 Tutorials |
+| **JIGSAW TASKS (45%)** | | *Chosen in Week 2 tutorial.* |
+| [Tutorial Facilitation](#tutorial-facilitation-guide) | 15% | Topic workshop 'ticket' and attendance (required, no mark)<br />Secret Plan: as a group (5%)<br />Tutorial Facilitation: as a group (10%) |
+| [Individual Research Paper or Poster](#research-paper-guide) | 25% | Structured Abstract: Due Mon in week before topic (5%)<br />Topic workshop: Mon week before topic (first hour only, strongly recommended)<br />Draft Paper due Mon in week of topic (required, no marks)<br />Paper or Poster (and Peer Review Critique): due Fri after topic wk (20%) |
+| [Peer Review](#peer-review) x 2 | 5% total | Receive paper: Tuesday of topic week<br />Submit review: Friday of topic week |
+| **PORTFOLIO (30%)** |||
+| Meet with Chris | (Compulsory) | During Wk 5, sign up on WATTLE |
+| [Submission + Defence](#portfolio) | 30% | Portfolio due Friday Wk 12 on WATTLE (20%)<br />Defence and feedback with Chris during Wk 13 (10%) |
 
-</table>
 
 Please note that your individual Due Dates will be available in WATTLE after the Week 2 tutorial.
 
@@ -35,7 +37,7 @@ Adapted from http://www.johnbiggs.com.au/solo_taxonomy.html.
 
 There are several parts to this assessment item. These should be completed in your project groups. Note that the Group Project will have a peer evaluation process, completed in Wk12 tutorials.
 
-## Project Concept Document
+## ROUNDTABLE 1 + PCD
 Your project team is asked to present a short scoping document for your design problem. These ideas will form the base for your project throughout the semester. Note that you are not bound to these ideas, and it is expected that they will evolve over the semester.
 
 ### Task Requirements
@@ -43,6 +45,7 @@ Present a written 2-page PCD, and lead a 10-minute roundtable discussion. You ma
 
 *  Project title, client, mentor, members
 *  A Use Case for the problem
+*  Potential Designs or Design Ideas
 *  Identification of stakeholders and potential collaborators
 *  A plan for completing the design task, including the identification of potential issues
 
@@ -52,19 +55,22 @@ The template can be modified as necessary. Use it as a guide.
 *  [PCD (PDF)](http://eng.anu.edu.au/courses/ENGN2226/current/data/project_concept_document.pdf)
 
 ### Feedback
-No marks are allocated to this assessment piece, but you will receive feedback to improve your final presentation.
+No marks are allocated to this assessment piece, but you will receive feedback from the group and your tutor guide the start of your project.
 
   * Demonstrate that the ideas address the design problem
   * Feasibility of adoption of the idea
   * Quality and professionalism of discussion
 
 ### Submission
-Please come to your tutorial with presentations, and 10 copies of your PCD to share around the room.
+Please come to your tutorial with presentations, and 10 copies of your PCD to share around the room. Please also submit a soft copy on WATTLE.
 
-## Project Report
+## Client Meetings
+Each group will have the opportunity to meet with their clients to expand on their PCD. Please take your PCD to your client meeting (and be prepared to change your whole ideas around your project!).
+
+## Weekly Progress Report
 The draft project report is a document that you will build with your group each week over the semester. The final report will be given to the client, and should be a representation of your group's best work over the semester.
 
-There are two parts to the document:
+There are two parts to the homework:
 
   - A weekly progress document
   - A weekly group exercise that demonstrates how the theory applies to your project. This will evolve to become your Group Project Report. Consider the Individual Research paper as serving the background/evidence for weekly homework (and therefore the group report).
@@ -81,27 +87,23 @@ The weekly group exercise demonstrates how your group is applying the theory to 
 
 ### Group Project Report (aka TUTORIAL HOMEWORK) and Roundtable Presentation <a id="GPR"></a>
 
-Your final report should be an 'evolved' compilation of your weekly homework exercises. The weekly homework exercises should be completed as a group, but should have strong links to the Individual Research Paper on that topic. Please bring your homework exercise to each tutorial, but your group may choose to improve and develop these ideas during the semester for the Final Report.
-
-The Group Project Report will be made available to the project clients in meetings at the conclusion of the course.
-
-The weekly homework exercise (and the final report) should be 1-2 pages for each topic. The final report should be a professional compilation of these of no more than 15 pages.
+The weekly homework exercise (and the final report) should be 1-2 pages for the most appropriate technique from the week for your group project. The weekly homework exercises should be completed as a group, but should have strong links to the Individual Research Paper on that topic. Please bring your homework exercise to each tutorial, but your group may choose to improve and develop these ideas during the semester for the Final Report.
 
 **List of weekly homework exercises *(do these beforehand and bring these to the tutorial)*:**
 
 *  **Wk 4 Tutorial:** Project Concept Document
 *  **Wk 5 Tutorial:** Human Factors Analysis
-*  **Wk 6 Tutorial:** Queue Theory
-*  **Wk 7 Tutorial:** Multi-Factorial Design
+*  **Wk 6 Tutorial:** Waiting Systems
+*  **Wk 7 Tutorial:** Measuring Reliablity
 *  **Wk 8 Tutorial:** Life-Cycle Audit
 *  **Wk 9 Tutorial:** Energy-Mass Balance Plan
 *  **Wk 10 Tutorial:** Economic Analysis
 *  **Wk 11 Tutorial:** Design Sketch/Model and explanation (as a group)
 *  **Wk 12 Tutorial:** Final Design Report (as a group)
   
-Each week, apply the **Fundamental Theory** to the topic in relation to your group project. For example, in Week 5:
+Each week, apply the most appropriate theory technique to the topic in relation to your group project. For example, in Week 5:
 
-*  The weekly topic is Human Factors, with subtopics of anthropometrics, ergonomics and workplace comfort.
+*  The weekly topic is Human Factors, with analysis techniques of anthropometrics, ergonomics and workplace comfort.
 *  The Fundamental Theory (listed on the [Content](../../content/) page is 'Dispersion in population data'
 *  If my project was, for example, an Electric Car, I could apply population data about height to understand how far the seat should be able to move back and forth to fit (for example) 95% of the population.
 
@@ -115,11 +117,27 @@ You could use the following template, or evolve your own:
 
 Each week, your group will have a meeting with your tutor to report group progress. Feedback will inform the expectations for following weeks. In the Week 12 tutorial, you will be asked to give a peer evaluation of this exercise over the entire semester, which will moderate individual marks.
 
-The final mark will be made up of three parts, totalling 25%.
+The criteria are open-ended to match the differing nature of the group projects. These will be awarded a mark based on the extent to which the group engages with the SOLO taxonomy above.
 
-*  Weekly Exercise and Progress (10%)
+*  quality and professionalism of the exercise
+*  extent to how the exercise relates the theory to your project
+*  clarity and conciseness of the 'insight' from the exercise
+
+### Submission
+Weekly Homework/Progress Report submission should be made weekly in your tutorial group to your tutor. Submit at the beginning of the tutorial, and your tutor will meet with you in the second hour. Note that this exercise doubles as preparation for your tutorial, and should be completed as a group. A hard copy is required of both the Progress Document and the Weekly Exercise. Submissions should include previous weeks' submissions (ie. it should build up each week).  
+
+## Roundtable 2 + FPR
+
+The Final Project should be an accumulation of the knowledge that you've developed over the semester, and will be made available to the project clients at the conclusion of the course.
+
+The weekly homework exercise (and the final report) should be 1-2 pages for each topic. The final report should be a professional compilation of these of no more than 15 pages (excluding bibliography or appendices). There is no template for this final report (your group should develop your own).
+
 *  Final Project Report (10%)
 *  Roundtable Presentation at end of semester (5%)
+
+Your final presentation should show your group's learning over the entire semester. You will have 20 minutes to use as you wish. It is strongly recommended that you present for no more than 10 minutes, and then facilitate a learning activity for the remainder of the time (such as those that you might have done in the tutorials). Anything goes.
+
+### Marking Criteria
 
 Each have the common criteria:
 
@@ -128,7 +146,7 @@ Each have the common criteria:
 *  clarity and conciseness of the 'insight' from the exercise
   
 ### Submission
-Weekly Homework/Progress Report submission should be made weekly in your tutorial group to your tutor. Submit at the beginning of the tutorial, and your tutor will meet with you in the second hour. Note that this exercise doubles as preparation for your tutorial, and should be completed as a group. A hard copy is required of both the Progress Document and the Weekly Exercise. Submissions should include previous weeks' submissions (ie. it should build up each week).  
+Please submit a soft copy of your report on WATTLE prior to the start of your tutorial, and bring a hard copy for your tutor to mark. 
 
 # Jigsaw Tasks
 
@@ -303,7 +321,6 @@ Submission of your draft is required by 5pm Monday the week of the topic. This i
 
 The final paper is due Friday the week after your facilitation on WATTLE. Your research paper will be marked by your tutor.
 
-
 ## Peer Review
 You will be allocated two Individual Research Papers to Peer Review. This should assist the author improve their thinking about their paper.
 
@@ -332,11 +349,11 @@ The 'Core Competencies' Portfolio is an opportunity for individuals to showcase 
 
 There is no clear format for this assessment piece. Creativity and insights based on applications are encouraged. You should use the weekly group homework as a starting point, but you're not restricted to a report. You will have a meeting with Chris in week 5 to discuss and navigate your approach to this assessment piece.
 
-The Core Competencies Portfolio should:
+The Portfolio should:
 
 *  have a common technology theme<br />*You should not choose a theme that is a copy of your group project. You could, however, laterally explore technologies to inform your project if you wish. You can discuss this with Chris in your Week 5 meeting if you are unsure. You can, of course, choose a technology not related to your project. Most importantly, you should choose a technology that interests you.*
-*  contain insightful analysis that demonstrates your understanding of the course content<br />*You should choose between 4-8 analysis techniques from the course and apply the theory to your technology. You must choose topics that you didn't write your research paper on.* ***(Note: you may use the Facilitation topic)***
-*  be a professional representation (if you're writing a report, it should be of **12-15 pages** in length, developed over the semester). However, if you would like to present your portfolio in an alternative format, please raise this with Chris in the Week 5 meeting.
+*  contain insightful analysis that demonstrates your understanding of the course content<br />*You should choose between 5-10 analysis techniques from the course and apply the theory to your technology. You must choose topics that you didn't write your research paper on.* ***(Note: you may use the Facilitation topic)***
+*  be a professional representation (if you're writing a report, it should be of **12-15 pages** excluding the bibliography, developed over the semester). However, if you would like to present your portfolio in an alternative format, please raise this with Chris in the Week 5 meeting.
 
 *Note: although there is no strict format for the Portfolio, you might consider it as:*
 

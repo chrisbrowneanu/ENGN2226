@@ -74,6 +74,15 @@ As this course is run out of the Research School of Engineering, the relevant ru
 
 [You can find College information on Assessment, Exams and Appeals on the Student Portal on WATTLE](http://wattlecourses.anu.edu.au/mod/page/view.php?id=272190).
 
+## Group Moderation 
+
+Sometimes not all members of a group contribute equally to the the work required, or not all members have the same expectations of standards. There is a moderation process available to provide recognition where it is required:
+
+*  Tutorial Co-facilitation **voluntary**  
+*talk to your tutor upon the completion of your tutorial if your group requires this*
+*  Group Project **required**  
+*this will occur in the week 12 tutorial. Moderation will apply to all group project assessment, unless otherwise stated by the group (eg, person A helped a lot during semester, but we didn't see them whilst preparing the final reports)*
+
 ## Contact <a id="Contact"></a> 
 
 The course convener is Chris Browne, PhD Candidate in the Research School of Engineering.
@@ -106,13 +115,13 @@ The [weekly topics schedule](#weekly_topics) has a detailed list of important ti
 | 4 | Project Roundtable | Dynamical Stories | Human-Factors facilitators | Meetings with clients |
 | 5 | Human-Factors [SR] | Keyboard Processes | Queue Theory facilitators | Portfolio meetings |
 | 6 | Queue Theory [SR] | The Beer Game | MFD facilitators | |
-| 7 | Multi-Factorial Design [SR] | Paper Aircraft | LC Audit facilitators | |
+| 7 | Multi-Factorial Design [SR] | Catapaults | LC Audit facilitators | |
 | <td colspan="5" style="align:center;">Lecture-Free Period |
 | 8 | LC Audit [SR] | Phone Teardown | EMB Plan facilitators | |
-| 9 | EMB Plan [SR] | TBA | Economic Analysis facilitators | |
-| 10 | Economic Analysis [SR] | TBA | No Workshop | |
+| 9 | EMB Plan [SR] | eBike System | Economic Analysis facilitators | |
+| 10 | Economic Analysis [SR] | Rechargeables Payback | No Workshop | |
 | 11 | Project Tune-Up | Portfolio Tune-Up | No Workshop | |
-| 12 | Project Presentations | Conclusions Seminar<br /><em>Compulsory</em> | No Workshop | |
+| 12 | Project Presentations | Conclusions Seminar | No Workshop | |
 | 13 | <td colspan="4">Portfolio Interviews |
 
 *Key - EMB: Energy-Mass Balance; LCA: Life-Cycle Assessment; SR: Student-Run

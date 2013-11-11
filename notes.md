@@ -91,11 +91,6 @@ We'll play the Beer Game, a logistics game that matches supply of 'beer' with th
 *  [Chris' summary and analysis of the results](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_qt-beer-game-results.pdf)
 *  [Collated data](http://eng.anu.edu.au/courses/ENGN2226/current/data/notes/seminar_qt-beer-game-data.zip)
 
-### Side Note 1: PERT Charts
-
-Another method of looking work in a system over time is by using the Critical Path Method (CPM) and Program Evaluation and Review Technique (PERT) charts. If you're struggling to apply queue theory to your project or portfolio, these techniques are welcome to be used.
-
-*  [CPM and PERT in Blanchard & Fabrycky](http://eng.anu.edu.au/courses/ENGN2225/course-files/ENGN2226/notes_qt-blanchard-pert.pdf)
 :
 During the seminar the concept of JIT manufacturing came up. If you'd like to explore this and associated concepts, these are a few resources that could get you started.
 
@@ -128,6 +123,12 @@ Note that not all products and systems observe the Bathtub curve, and with incre
 
 ### Side Note: MTBF & MTBM
 When considering reliability, the likely failure rate is a useful factor in any analysis. [Blanchard & Fabrycky's section on reliability](http://eng.anu.edu.au/courses/ENGN2225/course-files/ENGN2226/notes_mfd-blanchard-mtbf.pdf) cover Mean Time Before Failure and Mean Time Before Maintenance and associated concepts well.
+
+### Extension: Design of Experiments (DoE)
+The fundamental theory this week (DoE) gives us a methodology to navigate Techniques of reliability. When the interactions in systems are so complex that you can't see simple patterns of cause-and-effect, identifying some key parameters and analysing them can help you see their relationships. 
+
+*  [http://en.wikipedia.org/wiki/Design_of_experiments](http://en.wikipedia.org/wiki/Design_of_experiments)
+*  [Design of Experiments Overview](http://asq.org/learn-about-quality/data-collection-analysis-tools/overview/design-of-experiments.html) (with links to tutorials) on ASQ's website.
 
 ## Wk8: Life-Cycle Audit
 
