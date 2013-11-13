@@ -45,7 +45,7 @@ Present a written 2-page PCD, and lead a 10-minute roundtable discussion. You ma
 
 *  Project title, client, mentor, members
 *  A Use Case for the problem
-*  Potential Designs or Design Ideas
+*  Potential Designs or Design Ideas, including a review of existing designs
 *  Identification of stakeholders and potential collaborators
 *  A plan for completing the design task, including the identification of potential issues
 
