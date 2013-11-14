@@ -1,4 +1,4 @@
-# Resources <a id="Resources"></a>
+# Resources
 ## Tips for a Great Presentation (or Discussion) ##
 There are a number of things that you can do to get your idea across:
 
