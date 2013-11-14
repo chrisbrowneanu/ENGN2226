@@ -40,7 +40,7 @@ There are a number of things that you can do to get your idea across:
 *  Loo - *Multifactorial Design Analysis of a Portable Lift for Physically Impaired People* ([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_irp_loo.pdf))
 *  Oliver - *Veggies in a Cold Place - Multifactorial considerations in Greenhouse Design* ([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_irp_oliver.pdf))
 *  Thomas - *Life Cycle Analysis of the Proposed Silent Alarm* ([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_irp_thomas.pdf))
-*  Wil - *AGrowing Towards a Healthy Future - A Systems Analysis Using Queue Theory* ([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_irp_wil.pdf))
+*  Wil - *Growing Towards a Healthy Future - A Systems Analysis Using Queue Theory* ([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_irp_wil.pdf))
 *  William - *Analysis of the Payback Period for Transporting a Novel Exercise Machine by Truck within Australia* ([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_irp_william.pdf))
 *  Anonymous - *Energy Mass Balance Audit on a Greenhouse System in Phuongmoche, Nepal* ([Download](http://eng.anu.edu.au/courses/ENGN2226/current/data/example/13_2226_irp_anonymous.pdf))
 
