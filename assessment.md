@@ -1,4 +1,4 @@
-# Assessment..
+# Assessment
 
 This course focusses on developing a critical approach to problem solving using systems engineering methodologies in a group environment. Different people learn in different ways, and accordingly the experience of the assessment will be slightly different for each student. This is reflected in the assessment below.
 
@@ -376,3 +376,5 @@ There will be a Week 5 meeting with Chris to bounce ideas around for your Portfo
 Please submit a PDF of your Portfolio on WATTLE.
 
 Sign up for a Week 13 discussion spot on WATTLE.
+
+This line is here to help me troubleshoot commits.
