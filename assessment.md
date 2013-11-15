@@ -1,4 +1,4 @@
-# Assessment
+# Assessment...
 
 This course focusses on developing a critical approach to problem solving using systems engineering methodologies in a group environment. Different people learn in different ways, and accordingly the experience of the assessment will be slightly different for each student. This is reflected in the assessment below.
 
